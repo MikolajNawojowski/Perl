@@ -1,0 +1,19 @@
+Program do przesuwania napisow filmowych o zadana liczbe sekund.
+Jesli przesuniecie bedzie ujemne i mniejsze niz czas wywolania danego napisu to wartosc zostanie ustawiona na 0.
+Obslugiwane formaty skladni napisow: TMP, MPL2, MicroDVD.
+Podane napisy powinny miec rozszerzenie .txt.
+
+Wywolanie skryptu: 
+	perlNapisy g f t 	
+,gdzie:
+g- nazwa pliku z napisami, lub nazwy kilku plikow w tym sam formacie oddzielone spacjami (jesli pliki z napisami znajduja sie w tej samej kartotece co skrypt). W innym wypadku konieczne jest podanie pelnej sciezki do plikow.
+f- format skladni napisow (TMP, MPL2, MicroDVD).
+t- przesuniecie napisow w sekundach.
+Przyklad uzycia: perlNapisy /home/user/Desktop/subtitles.txt MPL2 10
+
+Nowe napisy sa zapisane z nazwa:
+	StaraNazwaNapisow-przesuniete.txt
+Nowe napisy zostana umieszczone w kartotece, w ktorej znajduje sie plik z napisami, ktore zostaly podane jako argumenty.
+
+Mozliwe do wywolania opcje:
+-h, -help -opcja wywolujaca krotki opis programu, jego opcji i sposobu wywolania. Konczy dzialanie programu. Opcja -h/--help musi zostac podana jako pierwszy argument przy wywolywaniu skryptu.

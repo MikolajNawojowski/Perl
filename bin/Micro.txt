@@ -1,0 +1,1939 @@
+{1}{1}23.976
+{1136}{1231}www.NapiProjekt.pl - nowa jakosc napisow.|Napisy zostaly specjalnie dopasowane do Twojej wersji filmu.
+{1232}{1266}(DAVID PANTING)
+{1554}{1579}(KIDNAPPERS SPEAKING|OTHER LANGUAGE)
+{1583}{1629}DAVID: Please! Please!
+{1635}{1671}(ALL GRUNTING)
+{1688}{1714}(KIDNAPPERS SPEAKING ALBANIAN)
+{1718}{1750}(DAVID GROANING)
+{1811}{1872}I'm sorry, I don't speak Albanian!
+{1878}{1915}(KIDNAPPER 1|SPEAKING OTHER LANGUAGE)
+{1921}{1961}Stop! I don't understand!
+{1965}{1993}(GRUNTING)
+{2067}{2095}(KIDNAPPER 1 SPEAKS|OTHER LANGUAGE)
+{2100}{2126}(GUN COCKING)
+{2178}{2211}KIDNAPPER 3:|Do you understand now?
+{2246}{2320}DAVID: <i>That's</i> a <i>Jericho 941|pointed at my head.</i>
+{2332}{2404}<i>You can get one|on the black market for $300.</i>
+{2408}{2432}Yeah.
+{2437}{2494}<i>It is a very reliable weapon.</i>
+{2502}{2528}(PANTING)
+{2540}{2589}<i>My name is David Packouz.</i>
+{2594}{2647}<i>And I'm an international arms dealer.</i>
+{2770}{2823}<i>What do you know about war?</i>
+{2828}{2910}<i>They'll tell you it's about|patriotism, democracy</i>
+{2915}{2975}<i>or some shit about the other guy|hating our freedom.</i>
+{2999}{3052}<i>But you want to know|what it's really about?</i>
+{3066}{3106}<i>What do you see?</i>
+{3110}{3134}<i>A kid from Arkansas</i>
+{3139}{3200}<i>doing his patriotic duty|to defend his country?</i>
+{3216}{3267}<i>I see a helmet, fire-retardant gloves,</i>
+{3271}{3318}<i>body armor, and an M16.</i>
+{3331}{3396}<i>I see $17,500.</i>
+{3412}{3476}<i>That's what it costs to outfit|one American soldier.</i>
+{3527}{3553}<i>Over two million soldiers</i>
+{3558}{3603}<i>fought in Iraq and Afghanistan.</i>
+{3659}{3750}<i>It cost the American taxpayer|$4.5 billion each year</i>
+{3755}{3795}<i>just to pay the air conditioning bills</i>
+{3800}{3839}<i>for those wars.</i>
+{3865}{3914}<i>And that's what war is really about.</i>
+{3954}{4004}<i>War is an economy.</i>
+{4051}{4085}<i>Anybody who tells you otherwise</i>
+{4090}{4147}<i>is either in on it or stupid.</i>
+{4265}{4303}<i>But I didn't know that yet.</i>
+{4370}{4429}<i>Back then, I didn't know anything.</i>
+{4519}{4562}(MUSIC PLAYING ON STEREO)
+{5020}{5057}You can't park here.
+{5062}{5101}-(TURNS VOLUME DOWN)|%COUGHS)UhH
+{5111}{5203}Hey, man. I just got|a client at 2150, Mr. Shore.
+{5218}{5247}I'm a few minutes early.
+{5252}{5303}Yeah? It's a gated community.
+{5308}{5335}You still can't park here.
+{5376}{5428}You probably shouldn't|smoke that here, either.
+{5486}{5543}Okay. Thanks.
+{5970}{6029}DAVID: <i>There's</i> a <i>lot I could say|about this period in my life</i>
+{6034}{6086}<i>that would give context to this story.</i>
+{6114}{6155}(MAN GRUNTING SOFTLY)
+{6195}{6219}<i>I could tell you how</i>
+{6224}{6268}<i>I dropped out of college|after one semester.</i>
+{6283}{6352}- How's that left quad doing?|-It's still sore.
+{6357}{6413}<i>Had a falling out with my parents.</i>
+{6440}{6515}<i>How I either quit or got fired|from six different jobs.</i>
+{6520}{6606}- MAN: That's it.|- All right. There we go.
+{6646}{6677}<i>But looking back</i>
+{6683}{6745}<i>I think the most important|thing to understand is</i>
+{6763}{6819}<i>I was completely lost.</i>
+{7057}{7118}Sorry. it fell.
+{7150}{7190}That's okay, Gary.
+{7360}{7395}<i>I was 22 years old</i>
+{7400}{7498}<i>massaging rich dudes in Miami Beach|for 75 bucks an hour.</i>
+{7542}{7584}<i>But I'd had enough.</i>
+{7589}{7644}<i>It was time to change shit up.</i>
+{7705}{7753}<i>And I had a big idea.</i>
+{7949}{8026}(SINGING BLUE OYSTER CULT SONG|"(DON'T FEAR) THE REAPER")
+{8167}{8233}DAVID: <i>My plan was to sell|quality bed sheets wholesale</i>
+{8238}{8284}<i>to all the retirement homes|in South Florida.</i>
+{8315}{8353}<i>And there were hundreds of them.</i>
+{8437}{8478}-It feels really soft.|- DAVID: it should.
+{8483}{8538}It's Egyptian cotton, 400 thread count.
+{8542}{8608}I mean, it's pretty much top of the line|for institutional use.
+{8623}{8673}I don't know. It seems excessive.
+{8678}{8761}Well, at $29 per unit,|it's far from excessive.
+{8766}{8861}David, do you know the average age|of a resident here at Hilldale?
+{8893}{8920}Um, no, I don't.
+{8925}{8978}- Eighty-two years old.|- Wow.
+{9001}{9059}Have you ever seen the skin|on an 82-year-old man?
+{9064}{9115}Have you ever felt it?
+{9120}{9166}Yeah. Actually,|I'm a certified massage therapist
+{9171}{9210}and a lot of my clients are elderly.
+{9215}{9241}Then you should know.
+{9249}{9289}These sheets,
+{9293}{9377}it would be like wrapping|a lizard in cashmere.
+{9390}{9422}Would you do that?
+{9427}{9499}Would you wrap a lizard in cashmere?
+{9531}{9580}(STAMMERS) I guess not.
+{9585}{9641}Then why would you expect me to?
+{9675}{9701}(SIGHS)
+{9713}{9764}-(MAN CONTINUES SINGING)|- My nephew.
+{9778}{9813}He's good, right?
+{9867}{9979}<i>DAVID: I'd sunk my entire life savings|into 65 cases of premium bed sheets</i>
+{9984}{10043}<i>but I overlooked one crucial factor.</i>
+{10073}{10133}<i>No one really cares about old people.</i>
+{10196}{10249}Why don't you just sell them back?
+{10254}{10316}It doesn't work like that.|I bought them in bulk.
+{10334}{10370}I'm so fucked.
+{10375}{10410}You're not fucked.
+{10414}{10454}<i>Pete's fucked.</i>
+{10470}{10513}He's dead.
+{10584}{10669}Holy shit. Is that Efraim?
+{10722}{10752}DAVID: Yeah.
+{10767}{10814}I thought he was still in LA.
+{10832}{10859}ROSEN: Me too.
+{10867}{10903}- He was a great friend.|- Thank you.
+{10920}{10986}He looks so tan.
+{11012}{11091}<i>DAVID: Efraim Diveroli|was my best friend growing up.</i>
+{11096}{11140}<i>But I hadn't seen him|since he was shipped off</i>
+{11145}{11192}<i>to live with his uncle in 10th grade.</i>
+{11213}{11297}<i>I think our parents wanted to keep us|as far apart as possible.</i>
+{11335}{11421}RABBI: <i>There is no table of contents|in the Book of Life.</i>
+{11440}{11527}<i>We don't know if we're at the beginning|of a new chapter, or the end of a story.</i>
+{11574}{11615}Which is why we must be grateful
+{11620}{11673}every time the page turns.
+{11695}{11730}Did you come back just for this?
+{11735}{11790}Fuck no! I barely knew Pete.
+{11795}{11841}I was hoping to see you here.
+{11845}{11892}You know your mom|wouldn't give me your number?
+{11897}{11922}What, did you call my house?
+{11927}{11981}No, I was fucking her.|(LAUGHS)
+{12018}{12056}She still hates me, huh?
+{12061}{12096}Yeah, most likely.
+{12100}{12137}I missed you, bro.
+{12142}{12168}Yeah, me too.
+{12182}{12219}Let's go for a ride.
+{12225}{12250}Uh...
+{12255}{12300}I can't. I got a client at 4:00.
+{12305}{12345}Fuck that shit. Cancel it.
+{12350}{12387}Your boy's back in town.
+{12416}{12448}<i>Come on!</i>
+{12653}{12682}<i>DAVID: So, what happened with LA, man?</i>
+{12686}{12710}<i>Why did you move back?</i>
+{12714}{12760}Oh, you know I was working|for my uncle, right?
+{12765}{12826}Yeah, I heard that you were, like,|a gun dealer or something.
+{12830}{12854}Pretty much. I mean,
+{12860}{12939}we'd buy seized weapons at police auctions|and resell them on the Internet.
+{12943}{12967}Cool.
+{12973}{13062}It was cool until my uncle|scumbagged me over 70 grand.
+{13067}{13109}Holy shit. Seventy grand?
+{13114}{13182}Whatever. Fuck him.|I made a bunch of money.
+{13187}{13256}I decided I'd come back to Miami,|start up my own shop.
+{13261}{13290}<i>Cool.</i>
+{13316}{13350}Yo, where's this guy live?
+{13355}{13406}It's, like, five more minutes.|You got somewhere you gotta be?
+{13423}{13448}No.
+{13453}{13508}All right. So, I can't figure out|which is worse.
+{13513}{13566}The fact that you sell|bed sheets to old age homes
+{13571}{13610}or that you jerk guys off for money.
+{13615}{13698}For the record,|I'm a licensed massage therapist, okay?
+{13703}{13735}Totally legit.
+{13739}{13816}Okay. But at the end,|the guys have to come, right?
+{13821}{13855}Like, on your chest or whatever?
+{13860}{13908}(LAUGHS) You know what? Fuck you.
+{13913}{13956}<i>- Fuck you, buddy.|-(LAUGHS)</i>
+{13961}{14027}Bro, do you remember the last time|we went to buy weed together?
+{14032}{14081}Of course I do. it was fucking traumatic.
+{14086}{14147}Yeah, but do you remember the next day,|when we walked into school
+{14152}{14199}and everybody knew that we got arrested?
+{14205}{14249}Yeah, we were gangsters, bro.
+{14254}{14310}We thought we ran South Beach.
+{14315}{14358}We did run yeshiva.
+{14363}{14406}We didn't take shit from anyone.
+{14444}{14473}Yeah, I miss that.
+{14483}{14509}You miss yeshiva?
+{14513}{14557}No, I miss
+{14566}{14614}not taking shit from anyone.
+{14720}{14747}(INDISTINCT CHATTERING)
+{14752}{14781}(KNOCKING)
+{14899}{14923}MAN: Yo!
+{14967}{15025}He out. You looking for weed?
+{15036}{15086}Depends. You got good shit?
+{15091}{15162}Put it this way. I sell him his shit.
+{15166}{15201}(EFRAIM LAUGHING)
+{15226}{15264}What's up with this nigga, man?
+{15269}{15304}Cool. Can you do an ounce?
+{15308}{15363}Yeah, no sweat. Three bills.
+{15390}{15422}Three hundred. I like it.
+{15426}{15482}You get the better price|when you come direct to the distributor.
+{15487}{15521}I guess so.
+{15550}{15577}All right.
+{15618}{15642}Yeah, so, she opened the door.
+{15646}{15687}And I'm like, "Yo. Chill.|I ain't about that drama."
+{15693}{15717}You know what I mean?
+{15722}{15749}"I know you got|another nigga in the crib."
+{15754}{15781}What's up?
+{15805}{15829}What?
+{15866}{15903}Can I get the shit?
+{15908}{15940}What shit?
+{16023}{16078}I just gave you $300 for some weed.
+{16098}{16165}Any of you niggas ever|seen this motherfucker before?
+{16170}{16197}I ain't seen shit.
+{16261}{16309}Man, get the fuck out of here.
+{16439}{16477}(CHUCKLES)
+{16513}{16571}- All right. All right, okay.|- Yeah, yeah.
+{16593}{16621}<i>MAN 1: This White boy Wild.</i>
+{16626}{16657}<i>MAN 2: Parachute pants.</i>
+{16662}{16699}MAN 1: Looking like Jay Leno and shit.
+{16712}{16745}MAN 2: Look like he going to church.
+{16750}{16789}(MEN LAUGHING)
+{16797}{16836}(INDISTINCT CHATTER)
+{16916}{16940}(GUN COCKS)
+{16944}{16976}Yo, yo, hold up, hold up, man.
+{16981}{17012}<i>MAN</i> 1: <i>What the fuck.|MAN 2: Shit!</i>
+{17015}{17053}-(GUNFIRE)|-(MEN SHOUTING)
+{17104}{17164}EFRAIM: Come on! Where's everybody going?
+{17169}{17213}I thought we were gonna hang out.
+{17234}{17275}(LAUGHS)
+{17311}{17347}What a bunch of assholes.
+{17357}{17394}What the fuck was that? Are you crazy?
+{17398}{17422}It's cool, bro.
+{17428}{17489}I have a Class 3 Firearms license.
+{17500}{17539}- Huh?|- Come on, get in.
+{17544}{17583}I know another dealer nearby.
+{17637}{17725}DAVID: <i>It's weird. We were the same age,|but I always looked up to Efraim.</i>
+{17747}{17808}<i>When life kicked me, I stayed down.</i>
+{17838}{17912}<i>But not Efraim. He kicked back.</i>
+{17917}{17961}<i>Mr. President, we want to thank you</i>
+{17966}{18000}<i>for visiting us here today.</i>
+{18004}{18059}<i>We are honored to be serving our country,</i>
+{18064}{18103}<i>and proud to welcome you,</i>
+{18108}{18161}<i>our wartime Commander in Chief...</i>
+{18188}{18240}- Hey.|- Hey, sweetie.
+{18273}{18308}How was the funeral?
+{18313}{18357}It was amazing.
+{18362}{18388}(EXHALES)
+{18435}{18502}Oh, my God. You're so stoned, aren't you?
+{18507}{18544}- Huh? What?|-(CHUCKLES)
+{18549}{18611}You just described a funeral as "amazing."
+{18616}{18671}What? No. The funeral was really sad.
+{18676}{18722}Yeah, everyone was totally bummed out.
+{18727}{18783}But I ran into my friend from growing up.
+{18788}{18841}The guy I told you about. Efraim Diveroli?
+{18867}{18909}The one you got arrested with?
+{18916}{18997}Yeah. I mean, we did|some other stuff too, but...
+{19002}{19054}Anyway, he just moved back to Miami.
+{19059}{19092}That's great, right?
+{19097}{19157}Yeah. I'm supposed|to swing by his office tomorrow.
+{19162}{19199}We're gonna grab lunch.
+{19218}{19260}- Okay.|-Are you hungry?
+{19265}{19295}- Hmm?|- I'm so hungry.
+{19308}{19364}- We don't have much here.|- Oh.
+{19393}{19445}- I mean, we have pizza.|- Really?
+{19450}{19491}- And nachos.|- We have nachos?
+{19496}{19534}And ice cream.
+{19539}{19593}Wait, what? We never have ice cream.
+{19640}{19685}You're fucking with me, aren't you?
+{19693}{19755}-(LAUGHS)|- That is so mean.
+{19798}{19834}That was so easy.
+{19926}{19963}(LINE RINGING)
+{19975}{19999}MAN: <i>Hello?</i>
+{20004}{20067}Hello, Mr. Borstein.|This is David Packouz.
+{20072}{20108}You told me to call today at 11:00.
+{20113}{20200}I have those bed sheets with me,|and I would love for you to take a look.
+{20248}{20315}Uh, sir, if you give me the chance
+{20319}{20364}I am confident that your residents
+{20369}{20403}will appreciate the difference.
+{20408}{20498}<i>It's an expense we can't justify,|and we're just not interested.</i>
+{20503}{20532}Uh-huh.
+{20540}{20590}Okay, well, thank you for your time.
+{20633}{20662}(SIGHS)
+{20909}{20933}<i>EFRAIM: Yeah, this is contract specialist</i>
+{20938}{20998}<i>Lindsey Michaels|from Army Command, Picatinny.</i>
+{21002}{21056}(MAN SPEAKING INDISTINCTLY|OVER PHONE)
+{21127}{21161}<i>That's right.</i>
+{21173}{21240}Yeah, I sent out a solicitation|for some 249s for Basra
+{21245}{21301}and we seem to have|misplaced your paperwork.
+{21374}{21426}Great. So if you can go ahead|and just re-email me those numbers.
+{21431}{21484}<i>Actually, you know what?|On second thought,</i>
+{21488}{21528}we're about to make|a decision on those RFPs.
+{21533}{21575}Why don't you go ahead|and just give me your bid
+{21580}{21635}while I got you here on the phone?
+{21660}{21685}Uh-huh.
+{21692}{21728}<i>And does that include mags?</i>
+{21747}{21796}Great. Yes, sir.
+{21811}{21871}You keep supplying the guns,|we'll keep killing the bad guys.
+{21888}{21921}God bless you.
+{21926}{21961}What a fucking tool. What's up, bro?
+{21966}{22019}Yo, what's up, man?|What was that all about?
+{22024}{22074}Oh, that was me|impersonating an army officer.
+{22079}{22122}Really? What for?
+{22127}{22179}To find out what my competitor's|bidding on a contract.
+{22187}{22227}It's fucking genius.
+{22232}{22260}I thought that you said you sold,
+{22265}{22314}like, seized weapons|to gun nuts on the Internet.
+{22319}{22346}Not anymore.
+{22351}{22393}Now I only sell to one gun nut.
+{22398}{22430}Oh, yeah? Which one?
+{22457}{22501}The U.S. Military, motherfucker.
+{22572}{22610}Wanna do a bong hit?
+{22616}{22650}(BUBBLING)
+{22897}{22934}(EXHALES)
+{22953}{22984}Pretty sick, huh?
+{22988}{23046}So what, you sell these things|to the Pentagon?
+{23051}{23107}I sell all kinds of shit to the Pentagon.
+{23112}{23178}Guns, bullets, body armor.
+{23183}{23290}Last week, I shipped 400 gas masks|to American Special Forces in Iraq.
+{23298}{23326}No shit.
+{23367}{23413}<i>How long you been doing this for?</i>
+{23420}{23454}Two, three months.
+{23459}{23506}<i>DAVID: And you make good money?</i>
+{23517}{23562}Oh! Fuck, man.
+{23567}{23634}EFRAIM: Put it this way.|I did over 200K in the past eight weeks.
+{23668}{23716}And I'm only telling you that|because you're my boy.
+{23721}{23748}I'm not bragging.
+{23774}{23810}Holy shit.
+{23815}{23850}<i>Yeah. Check this out.</i>
+{23892}{23963}Fed Biz Opps stands for|Federal Business Opportunities.
+{23967}{24018}Think eBay, but for war.
+{24036}{24094}- They buy tanks on here?|- Bro, they buy everything on here.
+{24108}{24132}DAVID: It was crazy.
+{24139}{24187}<i>The government had a public website</i>
+{24192}{24274}<i>containing every military contract|currently up for bidding.</i>
+{24280}{24339}But I skip the big ticket items,|and look for the small-ball shit
+{24344}{24398}that giant defense contractors ignore.
+{24403}{24458}Everybody's fighting over the same pie.
+{24463}{24500}But they're ignoring the crumbs.
+{24505}{24563}I live on crumbs, like a rat.
+{24574}{24655}And when you're dealing with the Pentagon,|crumbs are worth millions.
+{24669}{24727}DAVID: <i>These listings|seemed to go on forever.</i>
+{24738}{24797}<i>And according to Efraim, they did.</i>
+{24849}{24897}- Thanks, man.|-(MAN SPEAKING SPANISH)
+{24915}{24941}DAVID: So, I don't get it.
+{24946}{24985}If there's an entire defense industry,
+{24990}{25058}why would the Pentagon|want to buy anything from you?
+{25062}{25125}They don't want to, they have to.
+{25130}{25164}Remember Little League?
+{25169}{25237}How, at the end of the season,|they'd give out that big MVP trophy
+{25242}{25275}and that one kid would always win it?
+{25281}{25310}Yeah, Evan Talbot.
+{25315}{25373}Right. But then, one year,|somebody's mom complained?
+{25378}{25458}Then they had to give everybody|a little trophy so they wouldn't feel bad?
+{25462}{25530}Even that fat retarded kid,|Robbie Friedman, got one.
+{25534}{25582}That's kind of like what's happening here.
+{25599}{25637}I'm still confused, man.
+{25642}{25718}The Pentagon fucked up|when they were rebuilding the Iraqi Army.
+{25723}{25822}They gave all these no-bid contracts|to Cheney's boys, and they got caught.
+{25826}{25887}So Bush started this initiative|to level the playing field
+{25890}{25974}and now every Pentagon purchase,|every gun, every grenade,
+{25979}{26068}every bullet, gets offered to|small businesses for bidding.
+{26074}{26142}And sure, the big dogs|still get the big trophies.
+{26147}{26202}But the Pentagon's|got to give little trophies
+{26206}{26265}to all the Robbie Friedmans of the world.
+{26270}{26319}So, basically, you're a fat retarded kid.
+{26325}{26387}Bro, I'm the fattest and most retarded.
+{26394}{26442}(BOTH LAUGH)
+{26477}{26503}<i>MAN ON TV: In</i> a <i>speech today,</i>
+{26508}{26555}<i>President Bush said that|contrary to reports</i>
+{26560}{26630}<i>he has no plans to attack Iran.</i>
+{26643}{26675}<i>The President said, "That's ridiculous.</i>
+{26680}{26735}<i>"We didn't even have plans|when we attacked Iraq."</i>
+{26741}{26779}-(AUDIENCE LAUGHING ON TV)|-(DAVID LAUGHS)
+{26783}{26809}IZ: David.
+{26818}{26842}Yeah?
+{26876}{26994}Remember a few weeks ago, in the car|on the way home from my mom's house?
+{26999}{27054}Yes. Yes, I do.
+{27094}{27152}Well, this happened.
+{27322}{27350}(EXHALES)
+{27359}{27391}(SIZZLING)
+{27412}{27480}EFRAIM: How the fuck|are you going to feed a baby?
+{27485}{27510}(CHUCKLES)
+{27515}{27552}Have you even thought about this?
+{27557}{27581}What are you going to do?
+{27586}{27622}Jerk men off the rest of your life?
+{27627}{27712}Yeah, that's the plan.|I'm gonna feed my kid by jerking men off.
+{27727}{27754}Sorry.
+{27759}{27806}Okay, good. Well, at least|you thought it through.
+{27810}{27847}It's not funny.
+{27867}{27922}Dude, lam so fucked.
+{28001}{28050}I think you should come work for me.
+{28060}{28097}What are you talking about?
+{28102}{28148}Seriously, I need the help.
+{28177}{28204}David, look at me.
+{28247}{28296}Bush opened the floodgates in Iraq.
+{28301}{28369}It's a fucking gold rush.
+{28382}{28416}That's really nice of you, Efraim.
+{28420}{28464}Fuck nice! Who cares about nice?
+{28469}{28516}I've been looking to bring|somebody on for a while now.
+{28521}{28580}The problem is, I don't trust anyone.
+{28602}{28640}But you're my boy.
+{28664}{28750}I mean, no offense,|but I'm against this war.
+{28755}{28844}Me and lz are going to rallies|and signing petitions.
+{28849}{28888}Yeah, dude, I'm against the war too.
+{28893}{28930}I fucking hate Bush.
+{28950}{29016}But this isn't about being pro-war.
+{29021}{29070}The war is happening.
+{29074}{29123}This is about being pro-money.
+{29130}{29197}<i>DAVID: The more Efraim talked,|the more it made sense.</i>
+{29202}{29249}<i>Besides, compared to my other prospects,</i>
+{29254}{29310}<i>this was the chance of a lifetime.</i>
+{29315}{29401}<i>My only issue was, what would I tell lz?</i>
+{29409}{29456}I think it's a great idea.
+{29471}{29504}DAVID: So <i>I lied.</i>
+{29509}{29575}You know I've always|believed in this business.
+{29589}{29652}DAVID: <i>I told her that Efraim|had great contacts in the government.</i>
+{29657}{29694}<i>And instead of selling bed sheets</i>
+{29699}{29750}<i>to penny-pinching retirement homes</i>
+{29754}{29814}<i>we'd now be selling sheets|to the free-spending,</i>
+{29819}{29869}<i>overfunded U.S. Military.</i>
+{29873}{29911}It's genius.
+{30011}{30084}<i>DAVID: I had to lie. Iz hated the war.</i>
+{30097}{30161}<i>She had two cousins serving in Iraq.</i>
+{30196}{30294}<i>She also hated the mountain of bed sheets|that were taking up half our apartment.</i>
+{30480}{30550}<i>I spent the next six weeks|in a crash course on arms dealing.</i>
+{30557}{30601}The Herstal 556 light machine gun.
+{30606}{30659}Belgian, but made under license|in lots of places.
+{30664}{30731}DAVID: <i>When it came to this shit,|Efraim knew everything.</i>
+{30736}{30811}<i>Makes, models, weights, where it was made.</i>
+{30816}{30880}Remember, there's been an arms embargo|against China since Tiananmen Square.
+{30885}{30923}<i>DAVID: And if there was|an angle to be played,</i>
+{30927}{30955}<i>he knew about that too.</i>
+{30960}{31010}You have to read between|the lines with this stuff.
+{31015}{31077}All the money is made between the lines.
+{31091}{31152}<i>DAVID: I'd spend my entire day|scouring the government's website,</i>
+{31157}{31245}<i>searching for overlooked contracts|that we could squeeze our way into.</i>
+{31260}{31302}Hey, I think I got something.
+{31316}{31355}Hey, Georgia, I gotta call you back.
+{31360}{31394}<i>DAVID: And then,|in the middle of the night</i>
+{31399}{31453}<i>we'd be back in the office,|working the phones.</i>
+{31463}{31489}<i>Forging relationships</i>
+{31494}{31575}<i>with weapon manufacturers|all over Eastern Europe.</i>
+{31580}{31643}No, David Packouz from AEY.
+{31663}{31766}<i>I told lz we were doing conference calls|with sheet suppliers in Pakistan.</i>
+{31818}{31870}<i>They called guys like us war dogs.</i>
+{31875}{31928}<i>Bottom feeders who make money off of war</i>
+{31933}{31986}<i>without ever stepping foot|on the battlefield.</i>
+{32000}{32084}<i>It was meant to be derogatory,|but we kinda liked it.</i>
+{32089}{32155}You fucking scumbag piece of shit!
+{32165}{32235}Drown, motherfucker, drown!
+{32367}{32393}Very nice.
+{32398}{32480}DAVID: <i>Ralph Slutsky|was Efraim's silent partner.</i>
+{32515}{32549}<i>He was a local businessman</i>
+{32554}{32627}<i>who owned 14 dry cleaners|all across Miami.</i>
+{32632}{32702}Why didn't anybody tell me|the mister is broken?
+{32715}{32821}<i>Ralph put up the money to back the deals|in exchange for 25% of the company.</i>
+{32840}{32927}<i>Or at least what he thought was 25%.</i>
+{32938}{32986}We're doing God's work, Ralph.
+{32991}{33034}We really are.
+{33039}{33088}You know, every Jew owes a debt to Israel.
+{33093}{33155}In my mind, this is not|a metaphorical debt.
+{33160}{33185}<i>DAVID: Ralph was under the impression</i>
+{33190}{33236}<i>that Efraim was an observant Jew</i>
+{33241}{33275}<i>who only dealt arms as a means</i>
+{33280}{33326}<i>to protect Israel from her enemies.</i>
+{33331}{33370}Beautifully said.
+{33378}{33433}Did you happen to catch|last Friday's Torah portion?
+{33443}{33501}- One of my favorites.|- EFRAIM: Same here.
+{33506}{33568}It reminds me so much|of this story I once read.
+{33573}{33637}About a young man traveling to Pinsk.
+{33647}{33702}<i>DAVID: And that was Efraim's genius.</i>
+{33707}{33787}<i>He would figure out|who someone wanted him to be</i>
+{33792}{33861}<i>and he would become that person.</i>
+{33865}{33916}-(LOUD MUSIC PLAYING)|-(SNORTING)
+{33939}{33966}Ah!
+{34071}{34128}DAVID: And he's got, like, 20,000 of them.
+{34133}{34173}EFRAIM: Great.|Where did you find this guy?
+{34178}{34227}DAVID: You remember Victor in the Ukraine?
+{34232}{34263}EFRAIMI Yeah, the one with the Mk3s?
+{34268}{34339}DAVID: Yeah. He turned me|on to this company in Cyprus.
+{34343}{34401}It's run by this guy, Henry Girard.
+{34406}{34431}Henry Girard?
+{34457}{34488}Yeah, you know him?
+{34495}{34543}<i>You spoke to Henry Guard'?</i>
+{34548}{34601}A couple of times. Why? Who is he?
+{34606}{34691}Dude, for the last 20 years,|this guy has basically supplied
+{34695}{34752}both sides of every conflict|on the planet.
+{34757}{34793}He's a fucking animal.
+{34798}{34862}Really? Why is he calling me?
+{34869}{34912}Because he's a fucking animal.
+{34920}{34985}It's all money and it all matters.
+{34990}{35032}Hey, mami, where are you going?
+{35047}{35086}I'm trying to find my friends.
+{35091}{35122}You want to make some money?
+{35131}{35155}Excuse me?
+{35160}{35217}I'll give you $1,000 right now
+{35222}{35267}if we fast forward to our third date.
+{35275}{35309}What does that even mean?
+{35314}{35395}It means we just had a great dinner,|maybe met your friends for some drinks
+{35399}{35442}and now you're about to blow me in my car.
+{35447}{35480}Can we just get right to that part?
+{35487}{35519}Who the fuck are you?
+{35524}{35557}Efraim Diveroli.
+{35561}{35587}That's my best friend, David.
+{35592}{35630}And we're international arms dealers.
+{35635}{35662}But you already know that
+{35667}{35710}because we're on our third date.
+{35733}{35775}- What's going on?|- Nothing, bro.
+{35780}{35819}I'm about to get out of here with my girl.
+{35840}{35866}(CLAMORING)
+{35870}{35908}DAVID: What the fuck, man!
+{35913}{35943}(WOMEN SCREAMING)
+{36068}{36101}(GASPING)
+{36142}{36188}EFRAIM: on, my God.
+{36216}{36260}That guy was not fucking around.
+{36270}{36306}(EFRAIM LAUGHING)
+{36314}{36365}Yeah, you probably should have|picked a different girl.
+{36370}{36432}Fuck that, it almost worked.
+{36470}{36550}Hey, do you remember when you fought|Eric Moscowitz in sixth grade?
+{36580}{36636}Yeah, he did that windmill thing|with his arms.
+{36641}{36688}That was the sickest. He was unbeatable.
+{36693}{36729}You remember that shit?
+{36749}{36782}That's it.
+{36787}{36833}Dude, he would have killed me|if you didn'tjump in.
+{36848}{36888}Probably. Mmm.
+{36945}{37011}Hey, I never said "thank you."
+{37025}{37065}For everything.
+{37072}{37118}Come on, you know how much|you've helped me out lately.
+{37131}{37201}It's cool. You don't have to|make it weird, all right?
+{37246}{37286}Hey, can we order some food?
+{37290}{37316}(SPEAKING SPANISH)
+{37320}{37366}<i>Mami,</i> come on.|I could have gone to Cuba and back.
+{37371}{37416}Met the family,|grabbed a couple sandwiches.
+{37421}{37448}- I'd be done by now.|-(CELL PHONE VIBRATES)
+{37457}{37481}Hello?
+{37526}{37602}Yes, sir. Sorry, lwasn't expecting|a work call this late.
+{37607}{37668}Right, of course.|It's 9:00 a.m. in Baghdad.
+{37684}{37708}Who is it?
+{37713}{37765}That's great news, Captain Santos.
+{37818}{37847}Yes, sir.
+{37852}{37881}We're going to get right on that.
+{37886}{37912}Thank you. Bye.
+{37917}{37941}What?
+{38006}{38034}We just got the Beretta deal.
+{38039}{38068}Get the fuck out of here.
+{38077}{38105}I swear to God.
+{38110}{38155}<i>The Beretta deal was massive.</i>
+{38159}{38250}<i>It was 10 times bigger|than anything we'd closed so far.</i>
+{38255}{38303}<i>This was next level shit.</i>
+{38308}{38347}That's what I'm fucking talking about!
+{38352}{38409}That's real money, motherfucker! Fuck!
+{38425}{38466}Do you realize we're going to make 600K
+{38471}{38503}on this fucking thing?
+{38508}{38532}Holy shit.
+{38537}{38627}David, your 30% is $180,000.
+{38637}{38683}Holy fucking shit!
+{38718}{38748}DAVID: It was amazing.
+{38753}{38791}<i>I'd been working with Efraim|for two months</i>
+{38795}{38845}<i>and was already about to make more money</i>
+{38850}{38892}<i>than a lifetime of massages.</i>
+{39196}{39222}Listen.
+{39227}{39263}(FAINT HEART BEATING)
+{39297}{39326}What is that?
+{39330}{39365}- That's your baby's heartbeat.|-(lZ CHUCKLES)
+{39387}{39412}Wow.
+{39448}{39494}<i>LZ: Can you believe how fast it is?</i>
+{39517}{39568}- Is that normal?|- Totally normal.
+{39573}{39644}Fetuses have a much faster heart rate|than we do.
+{39710}{39738}Look.
+{39777}{39831}So, you guys want to know the sex?
+{39862}{39933}-(CELL PHONE VIBRATING)|- We keep going back and forth on it.
+{39974}{40018}- What do you think?|- Um...
+{40067}{40112}This is work. I have to take it.
+{40117}{40143}I'm so sorry.
+{40172}{40199}This is David.
+{40204}{40247}<i>This is Captain Santos in Baghdad</i>
+{40252}{40304}<i>checking on the delivery|status of my Berettas.</i>
+{40309}{40350}Captain, good to hear from you.
+{40355}{40406}Yes, we are on target. All good.
+{40417}{40447}Great. I was worried
+{40452}{40510}those guns were coming|direct out of Italy.
+{40515}{40565}Absolutely. They are, sir.
+{40593}{40641}Packouz, please tell me
+{40646}{40710}you're aware of the legislation|the Italians passed last week.
+{40723}{40778}The one banning|all arms shipments to Iraq.
+{40788}{40853}DAVID: <i>I had no clue|what he was talking about.</i>
+{40858}{40923}<i>But this was a huge fucking problem.</i>
+{40931}{40972}<i>Berettas are an Italian gun.</i>
+{40977}{41044}<i>Made and manufactured in Italy.</i>
+{41048}{41074}Uh...
+{41083}{41110}Of course.
+{41115}{41149}I am. I've been on the phone
+{41154}{41200}for the last three days,|making other arrangements.
+{41205}{41270}<i>CAPTAIN SANTOS: Great.|That's what I wanted to hear.</i>
+{41274}{41333}<i>Iraqi police force is depending on you.</i>
+{41338}{41391}Well, you tell them AEY|has got them covered.
+{41396}{41461}- Outstanding.|- Thanks, Captain. Talk soon.
+{41495}{41523}(DOOR OPENS)
+{41533}{41559}(SIGHS)
+{41569}{41595}(DOOR CLOSES)
+{41613}{41648}Everything okay?
+{41672}{41730}Yeah. Yeah, everything's fine.
+{41754}{41795}What happened? We done already?
+{41800}{41864}Yeah. Guess what?
+{41919}{41955}It's a girl.
+{42079}{42105}Baby-
+{42176}{42214}(GUNSHOTS)
+{42319}{42383}Okay. At least I hit something.
+{42388}{42434}Seriously, what the fuck|are we going to do?
+{42443}{42481}Relax, bro.
+{42486}{42539}Should I just call him back|and tell him the truth?
+{42576}{42641}When does telling the truth|ever help anybody?
+{42646}{42693}Efraim, we can't dick around with this guy
+{42698}{42723}and then not deliver.
+{42728}{42787}We're going to deliver.|I already figured it out.
+{42792}{42817}We use Jordan.
+{42833}{42863}Jordan Goldfarb?
+{42868}{42892}Jordan...
+{42897}{42930}Jordan the country.
+{42939}{42993}It shares a border with Iraq.|It's a U.S. ally.
+{42998}{43060}And most importantly, there's no embargo.
+{43093}{43136}Okay, so what do we tell the Italians?
+{43140}{43184}Fuck them! As far as they're concerned
+{43189}{43267}they're sending 5,000 Berettas|to a country they have no issue with.
+{43272}{43327}All we have to do is ship the guns
+{43332}{43373}from Jordan to Baghdad.
+{43378}{43412}It's called circumvention.
+{43449}{43473}Is that legal?
+{43499}{43528}It's not illegal.
+{43579}{43607}Want to try?
+{43667}{43694}WOMAN: How did that charity thing go?
+{43699}{43731}It was 5K, right?
+{43735}{43775}ROSEN: It was supposed to be a 5K.
+{43779}{43828}Uh, I finished about 1 K of it.
+{43833}{43882}So, I should probably return|four-fifths of the money.
+{43886}{43920}(ALL LAUGHING)
+{43931}{43968}<i>So, Andrew told me</i>
+{43973}{44029}you and Efraim are working together now?
+{44041}{44065}Really?
+{44072}{44115}Yeah, I told her about the sheet thing.
+{44128}{44179}Yeah. Efraim has some contacts|with the government.
+{44184}{44257}So we're just combining forces right now.
+{44262}{44317}Yeah, just... Just be careful with him.
+{44322}{44369}- Emily, don't.|- DAVID: What?
+{44374}{44404}How do you mean?
+{44409}{44473}Well, his cousin, Rebecca,|is an old friend of mine.
+{44478}{44510}We went to camp together.
+{44515}{44596}And she told me|that he stole $70,000 from her father.
+{44600}{44637}<i>MAN". Whoa, really?</i>
+{44642}{44666}That's interesting.
+{44671}{44709}I actually heard|it was the other way around.
+{44714}{44777}That his uncle is the one|who stole the money from him.
+{44782}{44812}See? You don't know.
+{44817}{44849}<i>Everyone has their own version of a story.</i>
+{44854}{44891}No, I'm pretty certain.
+{44896}{44941}Their whole family|stopped talking to him over it.
+{44946}{45014}Yo! Why aren't you answering your phone?
+{45026}{45058}Hey, what's up, man?
+{45103}{45127}Fuck is this?
+{45133}{45206}Everyone, this is David's|business partner, Efraim.
+{45217}{45263}- Hey, man.|- Hey, man.
+{45268}{45307}Bro, could I talk to you|outside for a minute?
+{45312}{45348}- It's urgent.|- Yeah, of course.
+{45365}{45421}And for the record,|I'm also his best friend,
+{45426}{45486}so probably should have been|invited to whatever this is.
+{45573}{45637}Look, these are her friends.|This is her dinner party.
+{45642}{45693}Rosen is her friend now? That Jew fuck?
+{45698}{45728}Trust me, you don't want to be here.
+{45733}{45765}I don't want to be here, all right?
+{45783}{45807}Now, what's going on?
+{45812}{45853}Jordanian customs seized our Berettas.
+{45865}{45913}- What? Why?|- I don't fucking know, David.
+{45918}{45942}I dropped out of high school
+{45947}{45988}before they covered|international diplomacy.
+{45992}{46016}(CELL PHONE VIBRATING)
+{46020}{46076}- Who's that?|- Fuck, it's Santos.
+{46081}{46106}He knows!
+{46147}{46178}Pick it up, I want to listen.
+{46183}{46241}- Pick... Pick up the fucking phone.|- This is David.
+{46246}{46302}<i>CAPTAIN SANTOS: Yeah, I just heard|my guns are being held up in Jordan.</i>
+{46307}{46378}Captain Santos, yes,|there's been a slight hiccup.
+{46383}{46415}What are they even doing in Jordan?
+{46420}{46444}DAVID: Not to worry.
+{46449}{46506}They're in a hangar in Amman.|Totally safe.
+{46513}{46575}My team and I are working|on a solution right now.
+{46580}{46616}<i>You didn't answer my question.</i>
+{46621}{46664}<i>What the fuck are my guns doing in Jordan?</i>
+{46691}{46735}Captain Santos, this is Efraim Diveroli.
+{46740}{46779}President ofAEY, sir.
+{46784}{46815}David has apprised me of the situation
+{46820}{46856}and we are looking at options as we speak.
+{46861}{46890}<i>Options? What kind of options?</i>
+{46903}{46966}Well, are you familiar|with the Corvus TP19?
+{46971}{47018}<i>That's Brazilian and it's shit.</i>
+{47023}{47076}<i>Contract says Berettas, I want Berettas.</i>
+{47081}{47131}Sir, I need you to work|with us a little on this.
+{47136}{47160}<i>Let me get this straight.</i>
+{47179}{47244}I'm in the ass crack of the world,|defending your freedom.
+{47249}{47295}And I got to work with you shit bags?
+{47306}{47330}<i>Look, I don't know</i>
+{47335}{47390}<i>if those Berettas are really in Amman</i>
+{47395}{47429}or if you're just trying|to goose your profits
+{47433}{47510}like every other piece of shit|in your miserable, rat-fuck profession.
+{47515}{47577}Either way, you're endangering my mission.
+{47582}{47607}I'm shutting you down.
+{47612}{47652}<i>I'm canceling you for cause.</i>
+{47674}{47742}<i>DAVID: Getting canceled for cause|was a death sentence.</i>
+{47748}{47809}<i>It meant we would never|win another contract.</i>
+{47879}{47946}Captain, please do not do that.
+{47962}{47994}I know you're upset.
+{47998}{48044}But from one Christian to another
+{48088}{48195}my wife and I are having|serious financial problems.
+{48235}{48273}Our son, Lucas, is in the hospital.
+{48277}{48330}Medical bills are through the roof.
+{48342}{48436}If you do this, it'll ruin me.|It'll ruin my family.
+{48442}{48468}As God as my witness,
+{48472}{48519}- I will get you your guns.|-(LINE DISCONNECTS)
+{48524}{48548}Hello?
+{48563}{48618}What a fucking piece of shit!|Do you believe this fucking guy?
+{48623}{48653}<i>- Fuck.</i>|-lZ: <i>What's going on?</i>
+{48743}{48785}<i>What guns, David?</i>
+{48853}{48898}<i>IZ: Are you fucking kidding me?</i>
+{48904}{48964}You told me you guys|were selling bed sheets.
+{48969}{49036}Yeah, and I also told you|that we're selling other stuff too.
+{49041}{49083}I thought you meant pillows!
+{49098}{49160}Look, I can't support a kid|by giving massages.
+{49164}{49208}Okay? And nobody|was buying the bed sheets.
+{49212}{49251}No, David, you lied to me.
+{49256}{49305}Because I know how you feel about the war.
+{49310}{49356}I thought we both felt that way!
+{49379}{49419}I'm five months pregnant!
+{49423}{49468}And it's a problem|if I can't trust the man
+{49473}{49499}I'm having a baby with!
+{49504}{49555}- Of course you can trust me.|- Really?
+{49560}{49584}Because five minutes ago,
+{49589}{49626}I didn't even know|you were an arms dealer!
+{49632}{49669}I'm not an arms dealer.
+{49674}{49710}What we do is perfectly legal.
+{49720}{49769}We work for the government.|We're middlemen.
+{49773}{49826}We don't touch the guns,|we don't see the guns.
+{49831}{49886}We never even leave the office.
+{49890}{49929}Hey, sorry to interrupt.|It's time sensitive.
+{49934}{49961}David, do you have a passport?
+{49983}{50027}What? Yeah, why?
+{50031}{50085}We have to go to Jordan. Like, ASAP.
+{50090}{50124}<i>Straighten this shit out.</i>
+{50128}{50163}We gotta talk, whatever, okay?
+{50168}{50196}Yeah.
+{50201}{50255}<i>EFRAIM: Yo, you window or aisle?</i>
+{50395}{50471}- DAVID: Excuse me, sorry.|- Yeah, we just landed.
+{50478}{50514}DAVID: Excuse me.|EFRAIM: The Embassy call?
+{50519}{50583}Excuse me. Okay, bye.
+{50593}{50662}- Sorry, kind of an emergency.|- Excuse me. Sorry.
+{50667}{50708}Don't worry, I have to go first.|I'm American.
+{50713}{50741}I'm sorry.
+{51075}{51116}DAVID: <i>The American Embassy|offered little to no help</i>
+{51121}{51180}<i>in dealing with the Ministry of Customs.</i>
+{51185}{51234}<i>So we took matters into our own hands.</i>
+{51350}{51378}(SPEAKING ARABIC)
+{51499}{51542}BOY: He says your permit has expired
+{51547}{51606}and that you can't fly your crates|out of Jordan without one.
+{51611}{51649}Yeah, we know. That's why we're here.
+{51661}{51742}Look, we were told that|you know people in the government,
+{51750}{51816}that maybe you can help us out.
+{51828}{51857}(SPEAKING ARABIC)
+{52109}{52171}He says it will take six weeks|to get a new permit.
+{52176}{52220}Yeah, that's the issue.|We don't have six weeks.
+{52225}{52262}We need our guns today.
+{52269}{52303}(SPEAKING ARABIC)
+{52326}{52421}Look, I don't want to come off|as the ugly American here.
+{52426}{52511}And maybe I don't understand|the rituals of your culture
+{52516}{52548}but this feels like the moment
+{52553}{52600}where we are supposed to offer|him a gift, am I correct?
+{52606}{52646}- You are correct.|- All right.
+{52728}{52780}<i>$1,400 US. CODY?</i>
+{52800}{52828}Cool, man.
+{52859}{52931}Could have just started with that,|you know, saved all this bullshit.
+{52936}{52960}I like your shades.
+{52968}{53005}Tell him I'll give him|100 bucks for those shades.
+{53010}{53039}Tell him in gibberish.
+{53046}{53085}(SPEAKING ARABIC)
+{53137}{53178}No way. Alligator.
+{53183}{53228}Yeah, I know. I...
+{53233}{53294}It's Lacoste. It's actually a crocodile.
+{53302}{53370}I like fancy shit, that's my thing.
+{53375}{53409}Tell him.
+{53470}{53540}DAVID: <i>For three days,|we didn't hear anything.</i>
+{53560}{53592}<i>It was ridiculous.</i>
+{53597}{53695}<i>Our entire business was riding on the word|of an 11-year-old translator.</i>
+{53713}{53789}Motherfucker! He ripped us off!
+{53814}{53846}We don't know that yet.
+{53850}{53903}No! I know what it feels like|to fuck somebody.
+{53908}{53961}I also know what it feels like|to get fucked by somebody.
+{53966}{54000}And we just got fucked.
+{54038}{54063}You need to chill out.
+{54069}{54107}How am I supposed to chill out, David?
+{54112}{54168}We're in a Muslim country,|I can't even get a blowjob!
+{54173}{54210}It's embarrassing!
+{54230}{54286}It's chaos here! Fuck!
+{54352}{54384}(PHONE RINGING)
+{54502}{54526}Yeah.
+{54545}{54569}<i>Right now?</i>
+{54597}{54630}We're coming down.
+{54635}{54672}That was Aladdin. They're in the lobby.
+{54677}{54731}See that? Come on.
+{54777}{54835}Hold on. Are you fucking kidding me?
+{54841}{54865}What's the problem?
+{54870}{54950}You wanted your guns back,|he got you your guns back.
+{54955}{55035}What? No, we said we needed a permit|to fly them to Iraq.
+{55041}{55123}Exactly, but you don't need|a permit to drive them.
+{55143}{55183}You expect us to drive them to Iraq?
+{55197}{55291}Why not? Marlboro is the best|smuggler in all of Jordan.
+{55302}{55326}DAVID: Who, this?
+{55334}{55394}This is the best smuggler|in all of Jordan?
+{55400}{55498}Yeah, he drives to Baghdad|three, four times a month.
+{55521}{55581}Efraim, you want to weigh in here?
+{55587}{55634}Yo, how far is it to Baghdad?
+{55645}{55707}- Why are you asking him that?|-800 kilometers.
+{55714}{55741}And he knows what he's doing?
+{55748}{55779}<i>DAVID: Efraim, stop.</i>
+{55784}{55831}-100% the best.|- EFRAIM: Come on.
+{55836}{55904}It's like 500 miles.|We'll be there by morning.
+{55933}{55993}You seriously want to drive to Baghdad?
+{55998}{56064}David, we're gunrunners.
+{56069}{56136}Let's go run some fucking guns.
+{56149}{56175}Let's go.
+{56205}{56242}<i>Come on.</i>
+{56385}{56472}Hey, seriously, is this safe?|Driving to Baghdad?
+{56477}{56524}Yes, very safe.
+{56529}{56554}50-50.
+{56607}{56693}50-50? What, like 50% we live, 50% we die?
+{56697}{56766}Yes. That is why we drive through night.
+{56785}{56819}It is much safer.
+{56844}{56877}How much safer?
+{56883}{56912}50-50.
+{56917}{56951}Bro, what the fuck!
+{56956}{57027}Obviously, he doesn't know|what 50-50 means.
+{57041}{57065}Oh, my God.
+{57071}{57138}<i>Hey, what about gas though?|It's a long trip, no?</i>
+{57149}{57218}No problem. Petrol free in Iraq.
+{57230}{57259}No kidding.
+{57264}{57301}- Free gas?|- Yeah.
+{57308}{57380}See what I'm talking about? Iraq is dope.
+{57424}{57474}I'm thinking about getting a place there.
+{57515}{57544}<i>Free gas.</i>
+{57556}{57599}<i>Fucking cool, man.</i>
+{58162}{58190}What is that?
+{58245}{58269}What?
+{58287}{58319}You don't see that?
+{58371}{58404}What the fuck?
+{58415}{58448}Hey, why are you slowing down, man?
+{58457}{58485}It's okay, it's okay.
+{58505}{58554}- DAVID: What's <i>okay?</i>|-(SOLDIER SPEAKING ARABIC)
+{58559}{58597}<i>EFRAIM: Whoa, whoa. What the fuck, bro?</i>
+{58602}{58633}MARLBORO: <i>It's okay. Border.</i>
+{58638}{58665}(SOLDIER SPEAKING ARABIC)
+{58671}{58695}What, this?
+{58743}{58770}Fuck.
+{58945}{58972}- Jesus.|- Put down.
+{58977}{59005}- Huh?|- Put down.
+{59046}{59071}(SPEAKING ARABIC)
+{59319}{59346}(SHOUTING)
+{59351}{59376}EFRAIMI Whoa, whoa.
+{59381}{59408}(CLAMORING)
+{59521}{59545}Cigarettes.
+{59608}{59645}<i>For you.</i>
+{59658}{59686}Welcome.
+{59864}{59890}(SOLDIER SPEAKING ARABIC)
+{59899}{59925}(EXHALES)
+{60574}{60618}<i>DAVID: It was fucking surreal.</i>
+{60639}{60735}<i>Six months ago,|I was a massage therapist in Miami Beach.</i>
+{60740}{60811}<i>And now, here I was,|driving a truckload of guns</i>
+{60816}{60845}<i>through the Iraqi desert</i>
+{60849}{60904}<i>with my best friend from junior high.</i>
+{62731}{62774}Marlboro?
+{62985}{63019}Hey, Marlboro?
+{63503}{63541}(FLIES BUZZING)
+{63619}{63643}Bro!
+{63680}{63715}There's a dead body in the gas station!
+{63720}{63747}EFRAIMI What the fuck!
+{63789}{63836}Where are we? Where's Marlboro?
+{63842}{63867}Did you not hear what I just said?
+{63872}{63901}There's a fucking dead body in there, man!
+{63906}{63939}Yes, I heard you.
+{63944}{63978}All right, we're in a war zone, bro.
+{63983}{64022}There's dead bodies, relax.
+{64055}{64083}(SIGHS)
+{64106}{64146}All right, I gotta take a leak.
+{64161}{64185}DAVID: What?
+{64338}{64362}DAVID: (SOFTLY) Be careful.
+{64367}{64426}I'm good, bro.|I know how to take a piss, all right?
+{64601}{64625}Shit.
+{65140}{65164}(SOFTLY) Fuck.
+{65339}{65382}(CELL PHONE RINGING)
+{65454}{65504}- Hello?|-lZ: Hey.
+{65523}{65561}Hey, babe, is everything okay?
+{65566}{65590}<i>Yeah.</i>
+{65600}{65633}What time is it there?
+{65641}{65694}<i>It's, uh, 7:30 in the morning.</i>
+{65718}{65759}Shit, did I wake you?
+{65764}{65838}No, I'm just at the hotel.|We're about to have some breakfast.
+{65845}{65900}<i>Listen, I'm not saying I like it,</i>
+{65905}{65970}but I get why you're doing this.
+{66010}{66035}You do?
+{66043}{66110}<i>This whole time I never thought|about what you must be going through.</i>
+{66115}{66159}<i>All the pressure you're under.</i>
+{66186}{66256}<i>It's just the lying that kills me.</i>
+{66282}{66328}<i>It makes me feel like I'm in this alone.</i>
+{66392}{66451}No, you're not in this alone.
+{66502}{66574}I need you to know|that you can tell me anything, David.
+{66578}{66623}<i>We're partners, remember?</i>
+{66718}{66742}<i>David?</i>
+{66751}{66786}Yeah, I gotta call you right back.
+{66791}{66827}- Is everything okay?|- Yeah, everything's fine.
+{66832}{66856}I'm just going to call you|fightback,okay?
+{66861}{66885}I love you. Bye.
+{66893}{66937}-(HORN HONKING)|- Efraim!
+{66953}{66977}Efraim!
+{66983}{67023}- What?|- Look!
+{67103}{67154}-(GUN FIRING)|- Marlboro!
+{67265}{67331}- Fuck! What the fuck, bro.|-(GUN FIRING CONTINUES)
+{67335}{67366}Holy shit, they have guns, man!
+{67371}{67400}I know!
+{67405}{67432}<i>DAVID: Go, go! Come on.</i>
+{67437}{67484}What the fuck! it won't start!
+{67489}{67521}- Where the fuck is Marlboro?|-(ENGINE STARTS)
+{67525}{67575}- ' Qot it!|'GO!
+{67713}{67751}-(SPEAKING ARABIC)|-(GUNFIRE IN DISTANCE)
+{67830}{67858}(IN ENGLISH) No, no, no!
+{67883}{67918}Wait, wait, wait!
+{68019}{68065}Wait! No!
+{68119}{68154}Run, motherfucker! Jump in!
+{68163}{68188}(GRUNTS)
+{68273}{68337}Holy shit! They're getting|closer. Come on, man. Go!
+{68342}{68377}<i>- Go, go!|-(BEEPING)</i>
+{68381}{68407}Come on!
+{68627}{68652}Are you kidding me?
+{68657}{68706}We stopped for gas in Fallujah?
+{68712}{68740}You cheap fuck!
+{68779}{68809}Go!
+{68814}{68850}<i>- DAVID: Fuck you, Marlboro!|-(GUN FIRING)</i>
+{68871}{68895}Fuck.
+{68981}{69016}DAVID: Fuck. Fuck.
+{69020}{69060}(EFRAIM SCREAMING) We're gonna die!
+{69065}{69116}You wanted to drive|to Baghdad, you asshole!
+{69214}{69239}They're stopping.
+{69244}{69297}What the fuck? Look.
+{69324}{69364}<i>DAVID: Holy fuck, bro.</i>
+{69455}{69522}Oh, fuck! All right! (LAUGHING)
+{69575}{69641}God bless Dick Cheney's America!
+{69858}{69883}(SPEAKING ARABIC)
+{69914}{69939}(LAUGHS)
+{69946}{69988}(EFRAIM AND DAVID CHEERING)
+{70509}{70569}EFRAIM: Look at this fucking place.|Oh, my God.
+{70814}{70843}Excuse me, sir?
+{70895}{70919}What?
+{70926}{70960}There are some guys here to see you.
+{70965}{70994}Some guys?
+{71026}{71056}(GRUNTS)
+{71075}{71108}What kind of guys?
+{71113}{71146}EFRAIM: Hey, Marlboro!
+{71153}{71199}Give us a smile, gorgeous.
+{71217}{71277}Let me see those pearly yellows.
+{71288}{71347}You're like an Iraqi Tom Selleck, bro.
+{71398}{71433}You guys are AEY?
+{71447}{71489}Yes, sir. David Packouz.
+{71494}{71545}This is my colleague, Efraim Diveroli.
+{71564}{71595}We spoke on the phone.
+{71604}{71635}I remember.
+{71754}{71788}You drove these?
+{71807}{71855}Through the Triangle of Death?
+{71968}{72014}Fucking A right we did.
+{72044}{72119}Kip, take these boys over to the cage,|get them paid.
+{72124}{72148}Right away, sir.
+{72153}{72194}I was wrong about you two.
+{72200}{72234}(CHUCKLES)
+{72247}{72292}Great fucking job, boys.
+{72311}{72344}Great fucking job.
+{72427}{72499}Holy shit, the Triangle of Death, bro?
+{72505}{72536}(LAUGHS)
+{72546}{72625}That's right.|That's the AEY guarantee, bitch.
+{72630}{72710}We drive through all triangles,|including your mom's.
+{72734}{72785}Hey, Kip, snap a photo of us, pal.
+{72789}{72813}All right.
+{72904}{72928}Ready?
+{72951}{73009}- How's my hair?|-It's good, slicked back.
+{73014}{73049}- Thank you.|-(SHUTTER CLICKS)
+{73054}{73082}- Got you.|- Let me see it.
+{73107}{73131}Helmut fucking Newton over here.
+{73136}{73162}All right, man.
+{73181}{73217}- Perfect.|- All right, all right.
+{73223}{73259}Let's go get fucking paid.
+{73279}{73310}(WHIRRING)
+{73403}{73434}DAVID: Holy shit.
+{73460}{73543}KIP: Crazy, right? $12.2 billion.
+{73551}{73619}It's all seized|from the godfather himself.
+{73624}{73679}You guys call|Saddam Hussein the godfather?
+{73686}{73777}Look at all this cash, bro.|What would you call him?
+{73782}{73818}$2.8 million.
+{73835}{73891}<i>- Just sign here.</i>|- EFRAIM: <i>You got it.</i>
+{74020}{74069}<i>DAVID: We got</i> a <i>military escort|to the airport</i>
+{74074}{74135}<i>and got the fuck out of Baghdad.</i>
+{74251}{74309}<i>There was almost $3 million in cash</i>
+{74314}{74368}<i>stuffed into our Army-issued duffel bags.</i>
+{74477}{74528}<i>You might think|after barely surviving Iraq</i>
+{74533}{74562}<i>that we'd be done.</i>
+{74582}{74609}<i>But you'd be wrong.</i>
+{74708}{74758}<i>You see, the Beretta deal|put us on the map.</i>
+{74763}{74836}<i>After that, we started killing it.</i>
+{74903}{74929}(LAUGHS)
+{74968}{75004}<i>We bought matching Porsches.</i>
+{75012}{75070}<i>We bought two apartments|in the same building.</i>
+{75074}{75104}(IZ LAUGHS AND SQUEALS)
+{75128}{75162}Oh, my God.
+{75294}{75358}- Holy shit, bro.|-(BOTH LAUGHING)
+{75431}{75458}DAVID; Oh!
+{75479}{75503}Whoo!
+{75573}{75616}<i>Ralph was so happy with his returns</i>
+{75621}{75667}<i>that he increased his original investment</i>
+{75671}{75717}<i>in AEY by $10 million.</i>
+{75849}{75910}<i>That gave us enough capital|to pursue more deals</i>
+{75915}{75947}<i>and expand the company.</i>
+{75959}{76006}<i>Which is exactly what we did.</i>
+{76166}{76227}I cannot stress this enough.
+{76243}{76311}You need to be scouring this website.
+{76318}{76346}Day and night.
+{76362}{76423}It is updated by the minute.
+{76432}{76543}There are tens of thousands of|solicitations on this website.
+{76554}{76628}<i>Each one is 40 to 50 pages long.</i>
+{76640}{76697}If you see something interesting,
+{76711}{76750}you bring it to me.
+{76765}{76815}If you bring it to me,
+{76856}{76893}I'll make you rich.
+{76926}{76959}Fact, 18 months ago,
+{76964}{77010}David here was jerking off guys for money.
+{77014}{77071}-(ALL LAUGH)|- Actually, that is not a fact.
+{77077}{77112}EFRAIM: That is absolutely a fact.
+{77125}{77167}Now he drives a Porsche.
+{77186}{77229}And that's all because ofAEY.
+{77280}{77308}Do you have any questions?
+{77329}{77375}Um, I have a question.
+{77401}{77448}What does AEY stand for?
+{77462}{77494}What do you mean? Like morally?
+{77498}{77568}No, I mean what do the letters mean?
+{77576}{77618}(CHUCKLES) That's fucking...
+{77623}{77672}What does IBM stand for? Nothing.
+{77676}{77726}It just... ltjust sounds professional.
+{77767}{77890}(CHUCKLES) Uh, actually, IBM stands for|International Business Machines.
+{77969}{77996}What did you say?
+{78001}{78081}IBM stands for|International Business Machines.
+{78121}{78152}Get the fuck out of here.
+{78156}{78187}(CHUCKLES)
+{78204}{78250}I'm serious.|You're not going to work here.
+{78276}{78339}Get the fuck out of my office,|you fucking nerd!
+{78378}{78402}Go!
+{78421}{78488}And for the record,|AEY doesn't stand for anything.
+{78529}{78580}- Fuck! What a dick.|-(POURING WATER)
+{78600}{78633}(JUG THUDS ON TABLE)
+{78763}{78824}Does anybody else have any questions?
+{78912}{78951}(BABY CRYING)
+{79020}{79062}Sleep. I got her.
+{79402}{79460}All right. All right.
+{79517}{79541}Hi.
+{79618}{79658}(SHUSHING) <i>I</i> know.
+{79678}{79734}I know. It's okay.
+{79821}{79845}Okay.
+{79872}{79904}(SHUSHING)
+{80154}{80185}What?
+{80228}{80262}(ELEVATOR BELL DINGS)
+{80408}{80502}<i>EFRAIM: 360, 000 SVD sniper rifles.</i>
+{80506}{80590}1,084,000 GP-30 grenades.
+{80598}{80679}45,000 SKO aviation rockets.
+{80700}{80793}The Pentagon's arming the Afghans|for the next 30 years.
+{80797}{80843}They're building a whole army.
+{80860}{80902}<i>EFRAIM: Wait, that's got to be</i> a <i>typo.</i>
+{80907}{80938}DAVID: It's not.
+{80974}{81046}<i>EFRAIM: 100 million rounds of AK-47 ammo?</i>
+{81078}{81126}Bro, these aren't crumbs.
+{81153}{81210}This is the whole fucking pie.
+{81238}{81274}(EFRAIM EXCLAIMS)
+{81290}{81335}-(LAUGHS)|-(SHUSHING)
+{81416}{81452}<i>DAVID: Among defense contractors,</i>
+{81456}{81520}<i>this would come to be known|as the Afghan deal.</i>
+{81524}{81568}<i>It would be the biggest opportunity</i>
+{81573}{81615}<i>AEY would ever see.</i>
+{81675}{81716}<i>We had to go for it.</i>
+{81785}{81856}<i>So, where do you go|to arm an entire country?</i>
+{82006}{82067}<i>Vegas X is where|military and manufacturers</i>
+{82073}{82145}<i>come together to unveil|the latest in warfare.</i>
+{82150}{82234}<i>It's like Comic-Con with grenades.</i>
+{82239}{82283}(INDISTINCT CHATTER)
+{82306}{82397}<i>Sure, most of these guys|didn't know who AEY was.</i>
+{82415}{82473}<i>But we saw that as an advantage.</i>
+{82506}{82542}- You got your list?|- Got it.
+{82546}{82594}- You feel good?|- Yeah, I feel pretty good.
+{82599}{82649}You know, this is different|than doing business on the phone.
+{82654}{82694}When they look at us,|they're going to see two kids.
+{82699}{82726}So we have to show them our balls.
+{82730}{82754}Got it.
+{82759}{82801}We need to be fucking thugs,|you understand?
+{82806}{82830}Understood.
+{82834}{82884}All right, good. Let's kill this shit.
+{83014}{83061}<i>DAVID: But it was</i> a <i>complete disaster.</i>
+{83122}{83149}<i>We quickly learned that</i>
+{83154}{83198}<i>even if we could land the Afghan deal,</i>
+{83202}{83258}<i>it would be a logistical nightmare.</i>
+{83269}{83298}Jerry, good to see you.
+{83311}{83349}DAVID: <i>To source</i> a <i>deal of this magnitude</i>
+{83354}{83385}<i>would mean piecing together</i>
+{83389}{83458}<i>multiple vendors|from all around the world.</i>
+{83462}{83495}-(DOG BARKING)|- Whoa, whoa.
+{83502}{83526}Get out of here.
+{83530}{83573}<i>It would require|dozens of shipping outfits</i>
+{83577}{83610}<i>and hundreds of permits.</i>
+{83615}{83651}<i>MAN". We need 100 million rounds.</i>
+{83655}{83742}DAVID: <i>All that could be okay|for</i> a <i>major defense contractor.</i>
+{83746}{83778}<i>But not for us.</i>
+{83833}{83915}<i>Honestly, we were out of our league.</i>
+{84124}{84162}(INDISTINCT CHATTER)
+{84507}{84555}MAN: Change $10,000.
+{84617}{84650}Any luck today?
+{85010}{85037}Efraim!
+{85134}{85158}What's up, bro?
+{85162}{85195}Where you been? Why aren't you|answering your phone?
+{85200}{85229}I'm with a prostitute. What's up?
+{85234}{85286}Okay, you need to get dressed|and come with me right now.
+{85291}{85337}All right, uh, give me
+{85368}{85393}38 minutes.
+{85398}{85477}Efraim, Henry Girard is down at the bar,|waiting for us.
+{85493}{85519}Get the fuck out of here.
+{85529}{85555}I'm dead serious.
+{85613}{85638}Shit.
+{85667}{85695}Okay.
+{85719}{85786}DAVID: <i>Henry Girard was</i> a <i>legend|among arms dealers.</i>
+{85799}{85874}<i>When they hung Saddam Hussein|for crimes against humanity</i>
+{85878}{85939}<i>it was said that Henry sold them the rope.</i>
+{85945}{85969}DAVID: Hey, Henry, sorry I'm late.
+{85974}{86006}This is my partner|I was telling you about.
+{86011}{86058}- Efraim Diveroli.|- Nice to meet you.
+{86063}{86102}It's an absolute pleasure.
+{86107}{86138}Henry has a dinner in 10 minutes,
+{86142}{86178}but I wanted you to hear this firsthand.
+{86190}{86241}I showed him the list and he can help.
+{86258}{86299}Great. With which part?
+{86306}{86330}All of it.
+{86343}{86375}He can fill the whole order.
+{86393}{86434}- The whole order?|- HENRY: Mmm-hmm.
+{86438}{86473}Even the AK ammo?
+{86482}{86518}Not a problem.
+{86530}{86591}You do know it's|100 million rounds, right?
+{86597}{86642}Henry has contacts in Albania.
+{86657}{86682}Albania?
+{86694}{86754}They spent decades preparing|for a Western invasion that never came.
+{86759}{86802}That country is one giant arsenal.
+{86807}{86854}It's all just sitting there.
+{86865}{86889}Tell him the best part.
+{86894}{86942}They're in the process of joining NATO,
+{86947}{87024}so they have to dispose of all|of their Soviet era weapons.
+{87033}{87106}They are literally dismantling it|and turning it into scrap.
+{87115}{87166}I can get most of the shit|for pennies on the dollar.
+{87179}{87214}Now, tell him the other best part.
+{87270}{87346}You're looking at the exclusive agent|for the whole fucking thing.
+{87358}{87396}<i>DAVID: This was the magic bullet.</i>
+{87410}{87494}<i>One supplier who could|fill the entire Afghan deal.</i>
+{87523}{87578}<i>This wouldn't just put us in contention.</i>
+{87581}{87634}<i>We might actually win this thing.</i>
+{87701}{87729}Sorry, I have a question.
+{87738}{87762}Sure.
+{87767}{87805}With that kind of hookup
+{87810}{87855}why don't you just bid|on the contract yourself?
+{87942}{87966}Full disclosure?
+{88058}{88106}I'm barred from doing any business|with the U.S. government.
+{88111}{88138}I'm on a watch list.
+{88165}{88195}Like a terrorist watch list?
+{88202}{88227}Mmm-hmm.
+{88239}{88289}- Got it.|- Wait, what?
+{88294}{88330}Okay, how much for the AK ammo?
+{88335}{88387}-10 cents a round.|- That's fucking amazing.
+{88393}{88417}And what about shipping?
+{88423}{88458}You can get llyushin 76|through Russian pilots.
+{88464}{88488}80K per flight.
+{88493}{88538}I'm sorry, you're on|a terrorist watch list?
+{88545}{88569}<i>EFRAIM: What the fuck!</i>
+{88574}{88622}Do you work for Homeland Security?|Relax, bro.
+{88633}{88673}You two should probably talk this over.
+{88678}{88738}We will. But we are very interested.
+{88742}{88798}Good. My flight leaves|tomorrow morning at 10:00.
+{88802}{88850}I can't spend more than 48 hours|in this dump.
+{88866}{88925}That's what I always say.|Vegas is a two-day town.
+{88966}{89006}I was talking about America.
+{89138}{89214}We're talking exclusive access|to a stockpile
+{89219}{89275}of Soviet Bloc non-standard|weapons and ammo.
+{89281}{89319}That's going to win this deal for us.
+{89325}{89358}He's on a terrorist watch list!
+{89362}{89441}Whatever. People end up on that list|for bringing scissors onto an airplane!
+{89453}{89483}That's not why he's on the list.
+{89503}{89611}Look, the Pentagon wants|100 million rounds of AK-47 ammo
+{89617}{89674}in the middle of a worldwide shortage.
+{89678}{89731}Where do you think|they think that's going to come from?
+{89747}{89811}A bunch of shady motherfuckers|like that guy.
+{89849}{89898}This is the job.
+{89902}{89946}To do business with the people in places
+{89951}{90022}the U.S. government|can't do business with directly.
+{90039}{90078}It's as simple as that.
+{90114}{90141}Fuck!
+{90478}{90507}(KNOCKING)
+{90637}{90661}Hey, boys.
+{90666}{90729}So we discussed it,|and we'd like to move forward.
+{90741}{90783}Fantastic. Congratulations.
+{90788}{90838}- But we have to see the merchandise.|- Oh, of course.
+{90842}{90882}On site, in person.
+{90905}{90945}You guys ever been to Albania?
+{90952}{90986}Honestly, until last night
+{90993}{91031}I didn't even know it was|a real fucking country.
+{91037}{91075}Oh, it's a beautiful place.
+{91078}{91150}Come on in. I'll call my guy|and we'll set it up.
+{91242}{91291}DAVID: <i>Albania is</i> a <i>lot of things.</i>
+{91297}{91349}<i>But a beautiful place is not one of them.</i>
+{91373}{91410}<i>It took us three separate flights</i>
+{91415}{91470}<i>and 22 hours just to get there.</i>
+{91498}{91530}<i>Henry's people sent a driver</i>
+{91535}{91570}<i>to pick us up at the airport</i>
+{91575}{91638}<i>and the guy would not stop talking.</i>
+{91645}{91685}I fall over, she revive me.
+{91690}{91719}(LAUGHS)
+{91725}{91793}<i>DAVID: But none of that diminished|Efraim's enthusiasm.</i>
+{91798}{91850}<i>He really believed|this could be the answer.</i>
+{91855}{91886}(LAUGHS)
+{92575}{92610}Welcome, AEY.
+{92630}{92654}I am Yili Pinari,
+{92659}{92714}<i>head of Albania's largest|military export company.</i>
+{92719}{92774}Efraim Diveroli. Good to see you.
+{92825}{92886}This is my business associate,|David Packouz.
+{92890}{92930}- Glad to meet you.|- How you doing?
+{92945}{92970}Uh...
+{92979}{93010}Thank you for the sign.
+{93017}{93058}Oh. It's for you.
+{93063}{93131}Yes, I know.|I said thank you for the sign.
+{93174}{93237}So, show us what you got.
+{93386}{93422}EFRAIM: What is this place?
+{93426}{93474}YILI: Storage for the Albanian army.
+{93506}{93581}We have 700 more like it|across the country.
+{93586}{93634}DAVID: You have 700 warehouses like this?
+{93639}{93671}YILI: Not just warehouse.
+{93677}{93746}We use church, hospital, school.
+{93750}{93802}Albania is most armed country|in the world.
+{93807}{93849}EFRAIM: Hey, that's cool. Congrats, bro.
+{93854}{93899}<i>DAVID: It was like</i>|a <i>fucking museum in there.</i>
+{93905}{93942}<i>Most of this shit hadn't seen daylight</i>
+{93947}{93985}<i>since the Cold War.</i>
+{93990}{94029}<i>But that didn't matter to us.</i>
+{94034}{94087}<i>All we cared about was the AK ammo.</i>
+{94093}{94187}It's okay. We have plenty|of what you came for.
+{94238}{94358}All these containers|are filled with your bullets.
+{94400}{94442}What do you mean,|all the bullets are right here?
+{94486}{94549}126 million rounds.
+{94624}{94649}Fuck me.
+{94655}{94718}Yeah. Fuck us all.
+{94785}{94814}(EXCLAIMS)
+{95122}{95146}How old are these?
+{95150}{95250}30, maybe 40 years. AK-47 bullets
+{95254}{95306}can last forever if properly stored.
+{95314}{95354}Right. Well, how were these stored?
+{95359}{95391}Uh, who gives a fuck|how these were stored?
+{95397}{95426}All that matters is they fucking work.
+{95431}{95462}Do they work?
+{95546}{95573}You try.
+{95714}{95758}(INAUDIBLE)
+{95802}{95847}<i>DAVID: They fucking worked.</i>
+{95887}{95961}<i>The entire defense industry|was scrambling over this deal.</i>
+{95966}{96038}<i>And the key to it was sitting|in 23 shipping containers</i>
+{96043}{96147}<i>in the back of a rusted out warehouse|on the other side of the world.</i>
+{96506}{96546}<i>DAVID: We got back with just enough time</i>
+{96551}{96614}<i>to submit our bid|before the government's deadline.</i>
+{96699}{96729}<i>And then we waited.</i>
+{96735}{96766}(CHEERING)
+{96774}{96826}<i>We waited five months.</i>
+{96862}{96891}Pa.
+{96897}{96923}-(CHUCKLES)|-(BABY (zooms)
+{96930}{96962}<i>EFRAIM: David!</i>
+{96985}{97038}- Is that Efraim?|- What?
+{97082}{97138}- Is it?|- David!
+{97147}{97177}We fucking won!
+{97206}{97265}Holy shit. We won the Afghan deal.
+{97270}{97306}- What?|- We won the Afghan deal!
+{97310}{97341}- We won?|- We fucking won!
+{97346}{97385}Bro! Are you fucking kidding me?
+{97390}{97438}- We fucking won!|- Yeah, motherfucker!
+{97443}{97470}(BOTH LAUGHING)
+{97487}{97541}Yeah! Yeah, motherfucker!
+{97546}{97574}(CHUCKLES)
+{97709}{97738}<i>DAVID: Before we could begin,</i>
+{97742}{97819}<i>AEY still needed to be vetted|by the government.</i>
+{97825}{97858}<i>It's a pain-in-the ass process</i>
+{97863}{97898}<i>involving three separate audits</i>
+{97902}{97965}<i>and an in-person interview.</i>
+{97974}{98030}<i>The audits were the biggest hurdle.</i>
+{98037}{98099}<i>I mean, we didn't even|have a real bookkeeper.</i>
+{98103}{98151}<i>We didn't have real books.</i>
+{98167}{98215}<i>We had to fabricate AEY's accounting</i>
+{98218}{98263}<i>going back three years.</i>
+{98269}{98363}<i>Ledgers, bank statements,|phony purchase orders,</i>
+{98369}{98413}<i>we forged it all.</i>
+{98479}{98519}<i>Two weeks later, we were in Rock Island,</i>
+{98525}{98557}<i>Illinois for our big meeting</i>
+{98561}{98631}<i>with procurement officers|from the U.S. Military.</i>
+{98725}{98763}<i>We were pretty fucking nervous.</i>
+{98769}{98855}<i>So Efraim thought it'd be a good idea|to get high in the parking lot.</i>
+{99003}{99045}(FOOTSTEPS ECHOING)
+{99082}{99114}Hold up.
+{99166}{99231}Does it sound like|we're more than two people right now?
+{99270}{99294}Yeah.
+{99302}{99362}<i>It was really strong shit.</i>
+{99366}{99393}Okay.
+{99529}{99567}(BUREAUCRATS MURMURING)
+{99735}{99770}This is very impressive.
+{99786}{99834}<i>BUREAUCRAT 2: Very impressive.</i>
+{99849}{99905}Frankly, we were a tad concerned|with your performance history
+{99910}{99951}against a deal of this size.
+{99957}{99998}But after meeting you two face to face,
+{100003}{100074}we feel like we're in good hands|on this one.
+{100079}{100135}Well, we won't let you down,
+{100158}{100182}sirs.
+{100186}{100214}Not to mention,
+{100218}{100287}your bid was far too attractive|for us to pass up.
+{100307}{100398}Thank you. I mean, that's great to hear|because we really worked hard on this.
+{100403}{100446}Sorry. Excuse me.
+{100462}{100511}One of you just said
+{100526}{100573}our bid was too attractive to pass up.
+{100578}{100622}What did you mean by that, exactly?
+{100626}{100698}He means you boys lowballed|the shit out of your competition.
+{100705}{100745}(ALL CHUCKLING)
+{100774}{100810}Yeah. Uh...
+{100826}{100854}By how much?
+{100866}{100890}Millions.
+{101006}{101041}(STUTTERS) Okay.
+{101081}{101114}Just for me. I...
+{101137}{101207}I'm curious, how many millions?
+{101215}{101298}Well, technically, we're not supposed to|discuss that with you,
+{101350}{101391}but what the hell.
+{101441}{101541}You guys came in $53 million|lower than the nearest competition.
+{101569}{101629}(YELLING) Fuck! Fuck!
+{101651}{101678}Motherfucker!
+{101683}{101751}<i>DAVID: $53 million.</i>
+{101785}{101822}We're okay.
+{101869}{101899}Look at the bright side.
+{101905}{101942}For once, the American taxpayer
+{101946}{101998}is getting a good deal|on a defense contract.
+{102004}{102065}Man, fuck the American taxpayer.
+{102410}{102439}Hello?
+{102526}{102550}Iz?
+{102585}{102658}Hey, Ella. Hi.
+{102682}{102713}How are you, sweetie?
+{102729}{102799}Hey. Do you know|where her blue sandals are?
+{102813}{102842}Oh, hey.
+{102850}{102894}Um, I'm not sure.
+{102913}{102982}<i>But listen, can we talk for a sec?</i>
+{102987}{103021}<i>IZ: Mmm-hmm.</i>
+{103034}{103090}I need to go back to Albania|for a couple weeks.
+{103101}{103137}<i>A month, tops.</i>
+{103167}{103226}Sure. No problem.
+{103659}{103707}Hey, what's going on?
+{103727}{103794}Ella and I are going to stay|with my mom for a while.
+{103798}{103834}What? What are you talking about?
+{103859}{103883}Iz, what happened?
+{103889}{103939}How come you didn't tell me|you went to Iraq?
+{103969}{104002}I was looking for the plumber's number
+{104007}{104062}on your computer and I saw the photos.
+{104098}{104123}I can explain.
+{104149}{104222}You said you never left|the hotel room in Jordan.
+{104226}{104314}I know. Because I didn't|want to freak you out.
+{104322}{104372}Why is it every time I catch you in a lie
+{104377}{104458}you try to convince me|that you lied for my benefit?
+{104479}{104543}At what point do you|just admit you're a liar?
+{104578}{104622}Iz, would you stop, please?
+{104626}{104693}We said we'd tell each other everything.
+{104713}{104783}- You promised!|- I know! Okay, I fucked up.
+{104789}{104835}What else aren't you telling me?
+{104841}{104865}- Nothing.|- No.
+{104870}{104902}Seriously.
+{104939}{104997}You know everything now.
+{105080}{105106}(SIGHS)
+{105129}{105199}Okay. Aren't you going to ask me|why I called the plumber?
+{105206}{105258}Yeah, sure. What happened?
+{105325}{105393}The pipe is leaking in the guest bathroom.
+{105534}{105566}I found this.
+{105609}{105663}Let me guess.|You didn't want to freak me out?
+{105669}{105694}Okay, hold on.
+{105699}{105738}So I hid some money under the sink.
+{105743}{105769}What's the big deal?
+{105773}{105821}The big deal is you hid it from me!
+{105827}{105851}No, I didn't!
+{105856}{105894}Then who did you hide it from?
+{106002}{106082}<i>I don't know. It was stupid. You're right.</i>
+{106218}{106286}We're going to leave|before you think of something else to say.
+{106314}{106355}<i>Iz, I'm sorry.</i>
+{106418}{106450}-lz!|-(DOOR OPENS)
+{106470}{106501}(DOOR CLOSES)
+{106603}{106633}Oh, fuck.
+{106952}{106986}(SNORTING)
+{107110}{107143}(INDISTINCT CHATTER)
+{107454}{107503}(INDISTINCT CONVERSATIONS)
+{107581}{107610}(PHONE RINGING)
+{107763}{107802}(KNOCKING)
+{107808}{107844}<i>DAVID: Hey, what's up, man?</i>
+{107849}{107875}What's up?
+{107880}{107905}<i>Just getting ready to leave.</i>
+{107985}{108013}What is that?
+{108034}{108101}I just wanted to thank you|for agreeing to go on this trip.
+{108106}{108131}(CHUCKLES)
+{108136}{108165}It's not lost on me,
+{108170}{108225}the sacrifice you're making|for this company.
+{108230}{108264}And I really appreciate it.
+{108309}{108381}"To my partner, David.|The world is yours."
+{108394}{108434}(BOTH CHUCKLE)
+{108442}{108508}-it's from Scarf ace.|- Of course, man. I remember.
+{108553}{108580}Thank you.
+{108596}{108620}Yeah.
+{108642}{108701}Uh, hey, before I go,
+{108709}{108746}I just wanted...
+{108787}{108811}What's this?
+{108817}{108897}It's our partnership agreement. 70-30.
+{108902}{108955}I just wanted to make it official.
+{109020}{109050}Yeah, of course.
+{109087}{109146}- It's a good idea.|- Cool.
+{109157}{109240}Man, eight fucking weeks in Albania.
+{109245}{109303}<i>Iz is going to hate me forever.</i>
+{109316}{109402}No, she's going to suck your cock|every day for a year.
+{109489}{109549}Because we're on the verge|of making $30 million.
+{109566}{109595}(EXHALES)
+{109621}{109652}Yeah, man.
+{109676}{109720}Go crush it.
+{109734}{109765}Thanks, bro.
+{109958}{109985}Nice.
+{110064}{110094}(LINE RINGING)
+{110232}{110292}<i>Hey, you've reached lz.|You know what to do.</i>
+{110298}{110384}-(BEEPS)|- Come on, lz. Don't cut me off like this.
+{110459}{110514}I'm in Albania, at the hotel.
+{110549}{110592}Left the number with your mom.
+{110596}{110662}And if you could please just call me back
+{110667}{110719}because I really miss you. Okay?
+{110724}{110781}And I love you.
+{110815}{110839}Bye.
+{110917}{110951}(KNOCK ON DOOR)
+{111100}{111132}Good morning, buddy.
+{111136}{111173}Hey, Bashkim.
+{111193}{111265}Oh, I bring you Kolonat.|It's our McDonald's.
+{111280}{111330}Yeah, I'm good. But thanks.
+{111384}{111423}We go to work now?
+{111664}{111709}(MEN SPEAKING OTHER LANGUAGE)
+{111778}{111826}Uh-huh. No, no, no.|I said I need two trucks.
+{111831}{111884}Yeah, you just got the one here right now.
+{111889}{111965}Yeah. Look, I got a cargo|plane sitting at the airport.
+{111997}{112038}Yeah, I know. I know.
+{112059}{112083}Hey, let me call you right back.
+{112088}{112120}Hey, stop! Stop, stop!
+{112125}{112167}Hold up, hold up, hold up!|Hey, turn that off!
+{112172}{112202}What the fuck is that?
+{112207}{112242}(MAN SPEAKING OTHER LANGUAGE)
+{112259}{112310}Where did you get this?
+{112315}{112351}(LOUD MUSIC PLAYING)
+{112398}{112422}Yo! What's up?
+{112427}{112465}<i>DAVID: Hey, man, we got</i> a <i>problem.</i>
+{112477}{112533}- Where you at?|- I'm at <i>Liv,</i> bro.
+{112538}{112600}Trying to bang some Cuban chick|who's waiting for me at my table.
+{112605}{112629}<i>Why, what do we got?</i>
+{112633}{112670}Let me get this straight.|I'm in Albania right now
+{112675}{112699}freezing my ass off.
+{112704}{112734}<i>You're at Liv, trying to get laid?</i>
+{112740}{112774}David, it's 1:00 a.m. here.
+{112779}{112814}I'm blowing off some steam.
+{112819}{112861}Yeah, 1:00 a.m. is when you're|supposed to be at the office
+{112866}{112893}because that's the middle of fucking day
+{112898}{112930}in every country we do business with.
+{112935}{112988}Look, we got a problem|with the AK ammunition.
+{113001}{113058}- What kind of problem?|- It's Chinese.
+{113063}{113129}Chinese, bro?|What does that even mean, Chinese?
+{113134}{113171}It means it's from China.
+{113176}{113256}What are you talking about?|I was there, I saw the ammo.
+{113261}{113285}<i>We both did.</i>
+{113289}{113317}Yeah, look, I don't know what to tell you.
+{113321}{113351}They fucked us. Okay? We got played.
+{113359}{113421}<i>Hold on. How do you even|know it's Chinese?</i>
+{113426}{113493}<i>There's Chinese writing|on every fucking crate.</i>
+{113498}{113541}Trust me, it's Chinese.
+{113636}{113662}(CELL PHONE RINGING)
+{113763}{113787}Yeah.
+{113793}{113817}<i>EFRAIMI Henry, what the fuck!</i>
+{113821}{113860}<i>We've been trying to reach you|for two days!</i>
+{113867}{113891}It's Efraim and David.
+{113897}{113930}We have a serious fucking problem.
+{113965}{113989}I'm listening.
+{113994}{114045}The AK ammunition, it's Chinese.
+{114050}{114095}<i>What, you think the Afghans|who are getting</i>
+{114100}{114174}shot up by the Taliban give a shit|where their ammo comes from?
+{114179}{114213}No, but the Pentagon does.
+{114218}{114254}Henry, you know we can't use Chinese!
+{114259}{114301}America has an embargo against China.
+{114305}{114395}You had your boys show us the one crate|of Albanian ammo in the entire country.
+{114400}{114459}I'm sorry, did anyone prevent you|from inspecting the other crates?
+{114464}{114545}Did you even bother to ask|what the country of origin was?
+{114550}{114582}Who the fuck would ask that?
+{114591}{114679}Henry, I'm staring at 100 million rounds
+{114684}{114750}of illegal Chinese ammunition|that you sold us.
+{114755}{114785}What are we supposed to do?
+{114792}{114833}Do your fucking job!
+{114881}{114935}The U.S. government|wants to look the other way.
+{114940}{114965}Don't give them a reason not to.
+{114970}{115031}And while you're at it,|learn the difference between
+{115036}{115102}"We have a problem"|and "You have a problem."
+{115130}{115154}Fuck!
+{115642}{115699}DAVID: <i>We were fucked.|The ammo was worthless</i>
+{115704}{115777}<i>and I was stuck in Albania|trying to piece together new suppliers</i>
+{115782}{115840}<i>from all over Eastern Europe.</i>
+{115869}{115910}(PANTING)
+{116357}{116386}(TV PLAYING)
+{116401}{116425}Holy shit.
+{116430}{116465}What the fuck are you doing here, man?
+{116470}{116496}I have a big idea.
+{116519}{116547}How did you get in my room?
+{116552}{116583}They let me in.
+{116602}{116635}I'm a trustworthy guy.
+{116642}{116704}<i>Not only did they let me in,|they brought me room service.</i>
+{116719}{116778}Anyway, I have a big fucking idea.
+{116790}{116819}Yeah? What's that?
+{116824}{116854}What if we repack?
+{116867}{116891}Repack what?
+{116895}{116919}The bullets!
+{116930}{116970}What if we repack them all?
+{116975}{117007}100 million rounds?
+{117012}{117078}David, it can be done.
+{117082}{117168}Think about it.|We'll also save a fortune on shipping.
+{117173}{117223}We trade out all the big,|heavy wooden crates
+{117228}{117265}for light cardboard boxes.
+{117269}{117319}Yeah, but it would still be Chinese ammo.
+{117334}{117378}Look at this towel. Okay?
+{117396}{117453}Turkish. Made in Turkey.
+{117496}{117566}Not anymore. Now it's an Albanian towel.
+{117588}{117675}It's only Chinese|if the packaging says it's Chinese.
+{117734}{117816}Yeah. But I mean, that's|also fucking illegal, man.
+{117838}{117880}We have two options.
+{117885}{117939}We either repack this shit and send it off
+{117944}{118009}or we can walk away|from a $300 million-deal.
+{118045}{118085}What do you want to do?
+{118099}{118206}DAVID: <i>When you put it like that|there's really only one option.</i>
+{118229}{118285}<i>Our driver Bashkim|introduced us to his friend</i>
+{118290}{118347}<i>who owned a boxing and storage company|out of Tirana.</i>
+{118360}{118419}This is Enver. I grew up with him.
+{118424}{118448}Nice to meet you, Enver.
+{118453}{118542}You too. Bashkim told me|a little about your situation.
+{118547}{118610}Yeah, look, to put it simply,|we have a weight problem.
+{118615}{118662}We're shipping|a large quantity of ammunition
+{118667}{118708}<i>from Albania to Afghanistan.</i>
+{118713}{118747}<i>Right now, it's packed in heavy tins</i>
+{118752}{118781}inside big wooden crates.
+{118786}{118815}And what we would like to do
+{118820}{118863}is to transfer those bullets|into plastic bags
+{118868}{118902}and then put those in double-walled,
+{118907}{118939}<i>corrugated fiberboard boxes.</i>
+{118989}{119015}Do you know what those are?
+{119025}{119077}Yeah, of course. For what reason?
+{119088}{119112}We just told you.
+{119118}{119149}What the fuck is it with this country?
+{119184}{119272}The original packaging, it's too heavy.
+{119283}{119345}Too many crates. We need to streamline.
+{119361}{119406}Okay. How many crates?
+{119411}{119482}A lot. It's 100 million|rounds of ammunition.
+{119487}{119594}Understood. But how many actual crates?
+{119637}{119720}We have 68,520 crates.
+{119760}{119791}I've seen it.
+{119796}{119836}It's fucking crazy.
+{120454}{120478}Done.
+{120781}{120839}So 50 men, eight weeks.
+{120848}{120946}I can do it for $100,000.
+{120976}{121021}100,000 U.S. dollars?
+{121030}{121054}Yeah.
+{121066}{121135}- Give us a second.|- Yeah. One second, please.
+{121160}{121232}Okay. I'm going to talk very seriously.
+{121243}{121272}<i>DAVID: It was hard not to laugh.</i>
+{121277}{121347}<i>I mean, not only was this guy|saving the entire deal,</i>
+{121352}{121389}<i>but by repacking all the ammo</i>
+{121394}{121475}<i>we would increase our profit margin|by almost $3 million.</i>
+{121484}{121516}Where should we get dinner tonight?
+{121524}{121576}There's this place by the hotel.|It's pretty good.
+{121581}{121633}Okay. All right, go ahead.
+{121641}{121669}Okay, deal.
+{121829}{121873}<i>It was even better than we thought.</i>
+{121880}{121958}<i>We were trading heavy wooden crates|for light cardboard boxes.</i>
+{121963}{122029}<i>Eight ounce tins for plastic bags.</i>
+{122055}{122088}<i>By repacking the ammo,</i>
+{122093}{122155}<i>we would lighten our overall load|by 180 tons.</i>
+{122204}{122261}<i>180 fucking tons!</i>
+{122265}{122354}<i>That meant fewer flights|using lighter planes burning less fuel.</i>
+{122391}{122467}<i>Which all added up to more money for us.</i>
+{122581}{122635}<i>On December 8th, 2007,</i>
+{122640}{122694}<i>AEY delivered the first 5 million rounds</i>
+{122699}{122747}<i>to the Afghan army.</i>
+{122794}{122839}<i>It went off without a hitch.</i>
+{123002}{123054}Come on, just say it once, sweetie.|Come on.
+{123059}{123131}Say "dada." Say "dada."
+{123156}{123186}<i>We really have to go, David.</i>
+{123191}{123247}No, hey, five more minutes,|please? Please?
+{123281}{123333}<i>We're about to eat. My mom's waiting.</i>
+{123362}{123435}<i>Ella, wave goodbye to Daddy. Hmm.</i>
+{123442}{123471}Bye-bye, Ella.
+{123485}{123528}Merry Christmas. I love you.
+{123590}{123652}Hey, can you give her to your mom|so that we can talk for a minute?
+{123659}{123683}<i>I'm sorry, David.</i>
+{123688}{123742}<i>We'll call you in a couple days. Okay?</i>
+{123791}{123815}<i>Bye.</i>
+{124032}{124080}(MEN SPEAKING INDISTINCTLY)
+{124223}{124255}(CELL PHONE RINGING)
+{124325}{124349}Hey, this is David.
+{124354}{124418}<i>EFRAIM: Bro, you want to hear|something totally fucked up?</i>
+{124423}{124464}Merry Christmas, Efraim.
+{124469}{124495}<i>It's Christmas?</i>
+{124500}{124525}That's why nobody's here.
+{124529}{124585}I was about to fire the entire office.
+{124590}{124630}Anyway, when I was over there,
+{124635}{124683}I was talking to our boy, Bashkim.
+{124688}{124714}Did you know his uncle
+{124719}{124774}<i>works at the Albanian defense ministry?</i>
+{124779}{124803}No, I didn't know that.
+{124809}{124833}<i>Well, he does.</i>
+{124838}{124904}So I said, "You know what would be|interesting to me, Bashkim?
+{124909}{125013}"I'd be curious to know what Henry|is paying the Albanians for the AK ammo."
+{125018}{125042}Efraim?
+{125047}{125084}<i>Do you know what he found out?</i>
+{125089}{125172}That motherfucker is paying|two and a half cents a round.
+{125177}{125227}<i>He's charging us a 400% markup!</i>
+{125231}{125275}Yeah. So what? We do the same thing.
+{125280}{125311}Yeah, but this is our contract.
+{125316}{125379}And we almost lost it because of him|and his Chinese fucking bullets.
+{125384}{125408}But we didn't lose it.
+{125413}{125439}<i>That's not the point!</i>
+{125444}{125501}I want to figure out a way|to cut this cocksucker out of the deal.
+{125506}{125535}Efraim, stop.
+{125541}{125566}<i>No, listen to me.</i>
+{125571}{125611}I'm serious, man.
+{125616}{125646}We're making money, okay?
+{125651}{125719}He's making money,|the whole thing is fucking working.
+{125723}{125756}Don't mess with it.
+{125761}{125819}<i>I don't give a fuck. He's ripping us off!</i>
+{125848}{125872}Look, I'm serious, okay?
+{125877}{125941}I'm going to be on the next flight|out of here if you pull that shit.
+{125951}{126037}Whoa. Bro, you don't have to threaten me.
+{126042}{126076}All right? I'm your partner.
+{126083}{126127}Yeah, it doesn't always feel like that.
+{126151}{126195}<i>I found this deal. And I'm over here</i>
+{126200}{126262}doing all the work and you're in Miami|trying to sabotage it.
+{126269}{126312}How am I sabotaging it?
+{126317}{126395}By trying to fuck over Henry,|the way you fuck over everybody else.
+{126399}{126428}(SIGHS)
+{126463}{126491}(EXHALES)
+{126500}{126585}You're right. Henry's our partner.
+{126630}{126704}<i>He's the reason we got this deal.</i>
+{126723}{126805}I was just looking out for us|and I took it too far.
+{126843}{126894}Don't sweat it, bro. I'll leave it alone.
+{126900}{126927}<i>Thank you.</i>
+{126944}{126998}<i>We can't push our luck|with this shit, man.</i>
+{127050}{127116}All right, I'll talk to you soon. Bye.
+{127314}{127352}(MEN SPEAKING OTHER LANGUAGE)
+{127362}{127390}Whoa. What the fuck? Hey.
+{127422}{127446}Fuck! Stop.
+{127464}{127493}(MEN GRUNTING)
+{127920}{127947}(MUFFLED SCREAMING)
+{128478}{128516}DAVID: Stop! I don't understand!
+{128522}{128550}(GRUNTING)
+{128555}{128580}(KIDNAPPER 1 SPEAKS|OTHER LANGUAGE)
+{128586}{128613}(GUN COCKING)
+{128774}{128822}Do you understand now?
+{128837}{128895}Yeah. Yes.
+{128909}{128985}Did you really think|you could cut me out of my own deal?
+{128994}{129028}(BREATHING HEAVILY)
+{129055}{129079}<i>DAVID: Please.</i>
+{129232}{129265}(WHIMPERING)
+{129302}{129340}(MAN SPEAKING OTHER LANGUAGE)
+{129515}{129539}DAVID: Fuck.
+{129579}{129603}Fuck.
+{129953}{129981}ENVER: David, we need to talk.
+{129986}{130017}Now's not a good time.
+{130078}{130125}I have not been paid yet.
+{130130}{130166}What do you mean? Like for the month?
+{130170}{130199}Even
+{130206}{130249}You haven't been paid anything?
+{130256}{130312}Your partner doesn't return phone calls.
+{130317}{130361}My guys need to be paid.
+{130366}{130420}<i>They are going to stop work.</i>
+{130451}{130491}David, I know the real reason
+{130496}{130536}that you want ammunition repacked.
+{130646}{130683}Okay, look, Enver. Listen to me.
+{130687}{130742}I gotta fly to Miami right now.|I'll be back in a week.
+{130746}{130770}But I promise you,
+{130774}{130798}the first thing that|I'm going do when I land
+{130803}{130854}is make sure|you get your money wired, okay?
+{130943}{130967}Okay.
+{131092}{131116}David.
+{131126}{131154}Airport, let's go.
+{131194}{131220}David.
+{131233}{131286}Look, I'm late for a flight.|I'll be back next week.
+{131291}{131340}She said her husband|didn't come home last night.
+{131388}{131431}Okay, what do you want me to do?
+{131436}{131470}(WOMAN SPEAKING ROMANIAN)
+{131529}{131580}She's very worried. it is not like him.
+{131598}{131637}Tell her I don't know her husband.
+{131642}{131666}Who's your husband?
+{131672}{131717}WOMAN: Bashkim.
+{131981}{132037}<i>DAVID: No one ever heard|from Bashkim again.</i>
+{132042}{132123}<i>They never found a note,|they never found a body.</i>
+{132146}{132188}<i>He just fell off the planet.</i>
+{132282}{132321}<i>I was done with Albania.</i>
+{132352}{132398}<i>I was never going back.</i>
+{132644}{132668}Hi.
+{132703}{132727}Hey-
+{132747}{132832}The reason I went to Albania|was to repackage Chinese ammunition
+{132837}{132904}so we could disguise it|and sell it to the U.S. government.
+{132950}{132999}(SIGHS) That sounds illegal.
+{133016}{133065}It is. But I'm done.
+{133087}{133151}I swear, no matter what happens|for the rest of my life
+{133155}{133196}I'm never going to lie to you again.
+{133340}{133371}Mmm-hmm.
+{133402}{133440}I love you so much, lz.
+{133627}{133686}What happened to your nose?
+{133714}{133763}I was kidnapped by Albanian gangsters.
+{133782}{133848}- I think it's broken.|-(SIGHS) Oh, my God.
+{133929}{133988}I think I'm going to go back|to being a massage therapist.
+{133997}{134027}Is that okay?
+{134078}{134112}(CHUCKLES) Yes.
+{134174}{134214}It was always okay.
+{134581}{134621}(ELEVATOR BELL DINGS)
+{134790}{134826}Hey, you're back.
+{134830}{134874}(INDISTINCT CONVERSATIONS)
+{135055}{135082}(DOOR CLOSES)
+{135100}{135128}Whoa!
+{135133}{135186}Bro, what are you doing back?|What happened to your face?
+{135191}{135238}That's everything that's been delivered|on the Afghan deal.
+{135242}{135270}I want my cut. I'm out.
+{135310}{135339}What are you talking about?
+{135349}{135401}He put a fucking gun to my head, man.
+{135412}{135438}Who, Henry?
+{135443}{135481}You said that you were going|to leave it alone.
+{135527}{135566}Oh, fuck.
+{135602}{135649}I fucked up.
+{135681}{135706}I'm done, Efraim.
+{135711}{135759}Look, you don't have to go back.
+{135765}{135797}I hired this new guy, Ivan.
+{135805}{135846}- He speaks Albanian.|- I'm done.
+{135994}{136051}What, do you think|I just got 4 million bucks laying around?
+{136059}{136089}I've thought it through.
+{136094}{136141}I'll take 40 cents on the dollar.
+{136287}{136333}Yeah, I thought it through too.
+{136342}{136370}How about this?
+{136379}{136421}How about zero cents on the dollar?
+{136433}{136499}Let me remind you that we have a contract.
+{136505}{136536}Fuck your contract!
+{136543}{136578}If I asked you to build me a house,
+{136582}{136619}and you quit after building me|half a house,
+{136625}{136655}you think I owe you half the money?
+{136661}{136709}<i>Is this a fucking joke, David?</i>
+{136714}{136773}You have two weeks.|Otherwise, you'll hear from my lawyer.
+{136790}{136827}- Who, Warren?|-(DOOR OPENS)
+{136838}{136890}Are you talking about Warren?|He's my lawyer too.
+{136895}{136923}<i>I introduced you to him.</i>
+{136938}{136973}<i>Fucking Warren.</i>
+{137225}{137253}<i>DAVID: Fuck!</i>
+{137491}{137522}(GRUNTS)
+{137593}{137641}(DAVID BREATHING HEAVILY)
+{137843}{137913}<i>RECEPTIONIST: AEY.|How may I direct your call?</i>
+{138467}{138503}RALPH: We fight.
+{138545}{138578}Fight with our families,
+{138583}{138625}fight with our business associates.
+{138655}{138704}Sometimes we fight with our friends.
+{138711}{138735}If God were here,
+{138740}{138772}we'd probably fight with Him too.
+{138791}{138823}(CHUCKLES)
+{138867}{138948}Efraim has a heavy heart|over what's happened.
+{139011}{139095}No offense, Ralph, but I'm not sure|you've ever met the real Efraim.
+{139120}{139176}He's a complicated young man.
+{139201}{139247}But he just wants to sit down and talk.
+{139261}{139296}Find a fair solution.
+{139337}{139378}He's asked me to mediate.
+{139478}{139520}Let me help you, David.
+{139566}{139622}EFRAIM: I just don't know|if I'm ready yet.
+{139627}{139652}All right, here he is.
+{139658}{139702}(INDISTINCT CHATTER)
+{139897}{139924}Hey, bro.
+{139968}{140018}Good to see you.
+{140199}{140248}Sorry things have gotten so crazy.
+{140262}{140301}Yeah. Me too.
+{140306}{140345}WAITRESS: You having anything, hon?
+{140350}{140399}I'll just have a coffee. Thanks.
+{140458}{140498}I've thought about it a lot.
+{140550}{140610}And I don't want you to walk away|from this empty-handed.
+{140635}{140662}Cool.
+{140668}{140730}So I had Warren draft up|a severance agreement.
+{140735}{140770}And I think it's pretty fair.
+{140798}{140893}I'm prepared to pay you 50K per year|for the next four years.
+{140951}{140980}200 grand?
+{141047}{141087}Is this a fucking joke, man?
+{141156}{141197}Is this what you meant by mediation?
+{141202}{141232}In all fairness, there was never
+{141237}{141284}a partnership agreement,|no prior contract.
+{141320}{141386}Yeah. I have something better|than a partnership agreement.
+{141391}{141434}I have proof.
+{141439}{141499}Before I left Albania, I took everything.
+{141503}{141527}What the fuck.
+{141534}{141598}All the documents we forged,|photos of repacking.
+{141604}{141628}- David!|- Repacking?
+{141633}{141663}- He didn't tell you?|- David!
+{141667}{141701}Oh, yeah, we took that money you gave us,
+{141706}{141774}and we bought 100 million rounds|of illegal Chinese ammunition,
+{141782}{141847}then we repackaged it|and sold it to the U.S. Military.
+{141852}{141916}Yeah, and we made|$8 million doing it, asshole.
+{141921}{141945}Careful, Efraim.
+{141948}{141984}We told Ralph we only made|$3 million on that one.
+{141989}{142013}Wait, what now?
+{142018}{142057}He sends you fake accounting|reports every month.
+{142062}{142102}- Oh, fuck off.|- I make them on my laptop.
+{142107}{142138}Now you're just making shit up.
+{142143}{142195}Really? Because I kept everything,|you dumb fuck!
+{142200}{142263}I even have copies of the bank statements|that we photoshopped
+{142268}{142293}and sent to the government.
+{142298}{142347}Get the fuck out of here.
+{142380}{142420}I can bury you.
+{142535}{142562}Us.
+{142627}{142666}I think you meant to say,
+{142674}{142726}you can bury us.
+{142782}{142830}Because anything that implicates me,
+{142844}{142870}implicates you as well.
+{142875}{142902}- Efraim, wait.|- No,no,no.
+{142907}{142992}I came here today prepared|to pay you $200,000.
+{143037}{143101}Now I'm not even going to pay|for breakfast.
+{143290}{143325}(CELL PHONE VIBRATING)
+{143353}{143421}Oh. What's going on over here? Huh?
+{143426}{143450}Hello?
+{143455}{143499}<i>MAN". May I speak with David Packouz?</i>
+{143504}{143552}- Yeah, who's this?|- Hi, David.
+{143557}{143631}<i>This is C. J. Chivers|with The New York Times.</i>
+{143635}{143699}<i>I was wondering if you had a minute|to talk about AEY,</i>
+{143704}{143783}<i>and the alleged repackaging|of Chinese ammunition.</i>
+{143821}{143858}I don't know what you're talking about.
+{143863}{143914}<i>Well, according to my source,|there's an ongoing investigation</i>
+{143918}{143942}<i>at the State Department.</i>
+{143948}{143987}<i>And I was hoping|to get some clarification--</i>
+{144206}{144285}David, this sounds pretty serious.
+{144289}{144321}Yeah, I know.
+{144348}{144386}Maybe you should call my uncle.
+{144405}{144433}<i>The lawyer.</i>
+{144457}{144519}-(ELEVATOR BELL DINGS)|- Oh, my God. Okay.
+{144523}{144562}That's a good idea.
+{144664}{144725}Hey, give me a minute.|I'll meet you guys in the lobby.
+{144945}{145000}<i>You just get</i> a call|<i>from The New York Times?</i>
+{145008}{145032}Yeah.
+{145058}{145087}(SIGHS)
+{145168}{145196}Me too.
+{145332}{145388}You know, Scarf ace was on TV last night,
+{145401}{145470}<i>and I was watching it and thinking about|when we were little</i>
+{145491}{145555}and we used to do the lines|from the movie.
+{145615}{145663}<i>You're my best friend, David.</i>
+{145715}{145774}God, I really fucked this up, didn't I?
+{145900}{145940}I'm sorry, bro.
+{145994}{146038}(CHUCKLES)
+{146069}{146097}Wow.
+{146110}{146159}Are you ever not acting, man?
+{146198}{146223}What does that mean?
+{146228}{146284}<i>You just tell me|what you think I want to hear,</i>
+{146289}{146313}because The New York <i>Times</i> called,
+{146318}{146366}and you're freaking out|that I might say something.
+{146428}{146457}Just admit it.
+{146473}{146522}We were never best friends.
+{146537}{146590}You were just playing|the part of my best friend.
+{146648}{146684}Yeah.
+{146856}{146916}Scarf ace wasn't even on TV last night.
+{146942}{146974}(CHUCKLES)
+{147029}{147063}You're such a piece of shit.
+{147087}{147131}-(GROANS) Fuck!|- Fuck you.
+{147156}{147205}- Fuck.|- Little bitch.
+{147302}{147340}Well, that saves us a trip.
+{147531}{147580}(MUSIC PLAYING)
+{147816}{147842}(INAUDIBLE)
+{148214}{148267}<i>DAVID: Out of all the illegal shit we did,</i>
+{148285}{148340}<i>all the lies we told the government,</i>
+{148376}{148435}<i>in the end, the thing that did us in?</i>
+{148441}{148533}Yes, I'm trying to reach|the Department of Defense, please.
+{148564}{148624}<i>Efraim never paid the box guy.</i>
+{148671}{148724}To who do you report a crime?
+{148770}{148812}<i>After Enver called the Pentagon,</i>
+{148817}{148878}<i>the State Department launched|a full-scale investigation,</i>
+{148883}{148927}<i>that went on for months.</i>
+{148999}{149088}<i>They busted Ralph at one of his shops|in the middle of a work day.</i>
+{149144}{149218}<i>He was horrified|and couldn't make a deal fast enough.</i>
+{149247}{149349}<i>All that bullshit about him wanting|to mediate</i> a <i>truce between Efraim and</i> I...
+{149377}{149404}<i>It was a setup.</i>
+{149409}{149447}<i>Oh, yeah, we took that money you gave us,</i>
+{149451}{149517}<i>and we bought 100 million rounds|of illegal Chinese ammunition,</i>
+{149522}{149600}<i>then we repackaged it|and sold it to the U.S. Military.</i>
+{149606}{149646}<i>They had us dead to rights.</i>
+{149653}{149691}<i>It was pathetic.</i>
+{149702}{149798}<i>While going through Efraim's computer,|they even found a to-do list that said,</i>
+{149802}{149852}<i>"Repackage Chinese ammo."</i>
+{149875}{149934}The story tonight|that has Pentagon officials scrambling.
+{149938}{150056}How did two 20-something young men|land a big Pentagon contract?
+{150060}{150088}<i>FEMALE REPORTER". Federal agents arrested</i>
+{150093}{150136}<i>both men last week,|charging them with fraud</i>
+{150141}{150216}<i>for selling outdated, defective|Chinese ammunition</i>
+{150221}{150254}<i>to the Pentagon.</i>
+{150272}{150329}<i>DAVID: Efraim was charged|with over 70 federal crimes</i>
+{150334}{150391}<i>and sentenced to four years in prison.</i>
+{150432}{150516}<i>I pled guilty and was sentenced|to seven months house arrest.</i>
+{150671}{150747}<i>Congress called the Afghanistan contract|a case study</i>
+{150751}{150833}<i>in all that is wrong|with the government's procurement process.</i>
+{151020}{151188}<i>In 2022, AEY will be eligible once again|to bid on Federal contracts.</i>
+{151446}{151476}How's it going?
+{151545}{151572}It's okay.
+{151611}{151681}If I wanted you dead,|you'd already be dead.
+{151787}{151846}I guess it's going all right then.
+{151879}{151906}Come in.
+{152061}{152103}How's your baby?
+{152108}{152143}It's a girl, right?
+{152148}{152193}Yeah. She's good.
+{152211}{152245}I got three.
+{152274}{152301}All girls.
+{152321}{152357}They tell you it gets better.
+{152362}{152415}That's not true, it gets worse.
+{152430}{152469}That's why I like the arms business.
+{152474}{152527}(CLEARS THROAT) No women.
+{152616}{152645}(EXHALES)
+{152718}{152749}(SIGHS)
+{152822}{152882}I want to apologize about Albania.
+{152945}{153030}I had bad information.
+{153099}{153228}So you stuffed me in the trunk of a car|and shoved a gun in my face by mistake?
+{153233}{153258}Yeah.
+{153311}{153385}I'm not a bad man,|but in certain situations,
+{153414}{153448}I have to ask myself,
+{153485}{153534}what would a bad man do?
+{153661}{153731}I appreciate you leaving my name|out of your testimony.
+{153756}{153807}I didn't really see|a reason to include it.
+{153812}{153848}Yeah, but still.
+{153905}{153939}Can I ask you a question?
+{153956}{153982}Sure.
+{154029}{154054}(SIGHS)
+{154067}{154129}When we met in Vegas|at the blackjack table,
+{154147}{154180}was that a coincidence?
+{154226}{154268}What do you think?
+{154279}{154309}(SCOFFS SOFTLY)
+{154401}{154441}Can I ask you another question?
+{154484}{154548}My driver in Albania went missing.
+{154581}{154628}Do you know what happened to him?
+{154832}{154859}(SIGHS DEEPLY)
+{154977}{155047}It's a piece of my end on the Afghan deal.
+{155161}{155195}It's for you.
+{155551}{155599}No more questions.
+{164229}{164253}English - SDH
+{164469}{164563}www.NapiProjekt.pl - nowa jakosc napisow.|Napisy zostaly specjalnie dopasowane do Twojej wersji filmu.

@@ -1,0 +1,76 @@
+#!/usr/bin/perl
+#Mikołaj Nawojowski, grupa 2
+
+use Cwd 'abs_path';
+
+my $filename = getcwd;
+use FindBin;
+use File::Spec;
+use lib File::Spec->catdir($FindBin::Bin, '..', 'lib');
+#use lib `$filename`;
+use TMP_MODULE qw(checkAllWords);
+use MPL2_MicroDVD_MODULE qw(checkType checkWords);
+
+checkIfArgumentIsHelp($ARGV[0]);
+my ($type, $offset) = takeDataFromUser(@ARGV);
+
+#sprawdzanie czy wśród argumentów są nazwy plików
+my $i=0;
+foreach $argnum (0 .. $#ARGV-2) {
+	if ( -e $ARGV[$argnum]) {
+		$script[$i] = $ARGV[$argnum];
+		$i++;
+	}
+}
+
+#DLA PLIKOW W FORMACIE: 00:00:00
+if($type eq "tmp") {
+	for ($d=0; $d < $i; $d++) {
+		my $newFilename = "$script[$d]-przesuniete.txt";
+		open ($handle,'>', $newFilename) or die "Nie moglem otworzyc pliku: $newFilename\n";
+		@ARGV = $script[$d];
+		while(<>) {
+			chomp;
+			my @words = split(/\s+/, $_);
+			checkAllWords(\@words, $handle, $offset);
+		}
+		close ($handle);
+	}
+	exit;
+} elsif (($type eq "mpl2") or ($type eq "microdvd")) {
+	for ($d=0; $d < $i; $d++) {
+		my ($newFilename, $endTime, $beginTime) = checkType($type, $script[$d]);
+		open (my $handle,'>', $newFilename) or die "Nie moglem otworzyc pliku: $newFilename\n" ;
+		@ARGV = $script[$d];	
+		while(<>) {
+			chomp;
+			my @words = split(/\s+/, $_);
+			checkWords(\@words, $handle, $beginTime, $endTime,$offset);
+		}
+		close ($handle);
+	}
+	exit;
+} else {print STDERR "Podales zly format plikow \n"; exit;}
+
+
+sub checkIfArgumentIsHelp {
+	my @arg = @_;
+	if ((@arg[0] eq "-h") or (@arg[0] eq "-help")) {
+		$filename = File::Spec->catfile($FindBin::Bin,"help.txt");
+		open(my $helpFile, $filename) or die "Nie potrafilem otworzyc pliku pomocy";
+		while (my $row = <$helpFile>) {
+			chomp $row;
+			print "$row\n";
+		}
+		exit;
+	}
+}
+
+sub takeDataFromUser {
+	my @arg = @_;
+	my $type = @arg[-2];
+	my $offset = @arg[-1];
+	if( ($offset =~ /^-?\d+\.?\d*$/) || ($offset =~ /^[+-]?\d+\.?\d*([e|E|d|D|q|Q|^]?)([+-]?)\d+\.?\d*$/)) {}
+	else {print STDERR "Podales zle przesuniecie \n"; exit;}
+	return (lc($type), $offset);
+}
